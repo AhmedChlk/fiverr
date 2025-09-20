@@ -6,8 +6,12 @@
       "artist": "la partita",
       "tracks": [],
       "totalTracks": 0,
-      "totalStreams": "0",
-      "url": "https://app.artist.tools/playlist/0mdKzQBwAutLFCncVSXQPL"
+      "totalStreams": "N/A",
+      "url": "https://app.artist.tools/playlist/0mdKzQBwAutLFCncVSXQPL",
+      "additionalInfo": {
+        "uniqueArtists": 0,
+        "latestTrack": ""
+      }
     }
   ]
 }
