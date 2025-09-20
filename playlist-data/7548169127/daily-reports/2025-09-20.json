@@ -1,0 +1,93 @@
+{
+  "date": "2025-09-20",
+  "chatId": "7548169127",
+  "totalPlaylists": 1,
+  "playlists": [
+    {
+      "playlistName": "la partita",
+      "artist": "la partita",
+      "tracks": [
+        {
+          "name": "Track by Anuel AA",
+          "artist": "Anuel AA",
+          "streams": "Unknown",
+          "position": 1,
+          "index": 1
+        },
+        {
+          "name": "Track by KAROL G",
+          "artist": "KAROL G",
+          "streams": "Unknown",
+          "position": 2,
+          "index": 2
+        },
+        {
+          "name": "Track by Blessd",
+          "artist": "Blessd",
+          "streams": "Unknown",
+          "position": 3,
+          "index": 3
+        },
+        {
+          "name": "Track by Yan Block",
+          "artist": "Yan Block",
+          "streams": "Unknown",
+          "position": 4,
+          "index": 4
+        },
+        {
+          "name": "Track by Luar La L",
+          "artist": "Luar La L",
+          "streams": "Unknown",
+          "position": 5,
+          "index": 5
+        },
+        {
+          "name": "Track by Kris R.",
+          "artist": "Kris R.",
+          "streams": "Unknown",
+          "position": 6,
+          "index": 6
+        },
+        {
+          "name": "Track by ROA",
+          "artist": "ROA",
+          "streams": "Unknown",
+          "position": 7,
+          "index": 7
+        },
+        {
+          "name": "Track by Haze",
+          "artist": "Haze",
+          "streams": "Unknown",
+          "position": 8,
+          "index": 8
+        },
+        {
+          "name": "Track by Bad Bunny",
+          "artist": "Bad Bunny",
+          "streams": "Unknown",
+          "position": 9,
+          "index": 9
+        },
+        {
+          "name": "Track by Travis Barker",
+          "artist": "Travis Barker",
+          "streams": "Unknown",
+          "position": 10,
+          "index": 10
+        }
+      ],
+      "totalTracks": 10,
+      "totalStreams": "2 unique artists",
+      "url": "https://app.artist.tools/playlist/0mdKzQBwAutLFCncVSXQPL",
+      "additionalInfo": {
+        "uniqueArtists": 2,
+        "latestTrack": "1w ago",
+        "extractionTimestamp": "2025-09-20T19:02:18.506Z",
+        "extractionMethod": "success"
+      }
+    }
+  ],
+  "generatedAt": "2025-09-20T19:02:03.816Z"
+}
