@@ -1,2 +1,0 @@
-# Add your playlist URLs here, one per line
-# Example: https://artist.tools/playlist/abc123
