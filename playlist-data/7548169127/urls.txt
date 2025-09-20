@@ -1,2 +1,6 @@
-# Add your playlist URLs here, one per line
-# Example: https://artist.tools/playlist/abc123
+# Playlist URLs for Chat ID: 7548169127
+# Add one URL per line
+# Lines starting with # are ignored
+# Format: https://app.artist.tools/playlist/YOUR_PLAYLIST_ID
+
+https://app.artist.tools/playlist/0mdKzQBwAutLFCncVSXQPL
