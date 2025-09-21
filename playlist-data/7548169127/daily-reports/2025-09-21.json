@@ -4,20 +4,71 @@
   "totalPlaylists": 1,
   "playlists": [
     {
-      "playlistName": "Error - 0mdKzQBwAutLFCncVSXQPL",
-      "artist": "Error",
-      "tracks": [],
-      "totalTracks": 0,
-      "totalStreams": "N/A",
+      "playlistName": "la partita",
+      "totalTracks": 10,
+      "uniqueArtists": 2,
+      "latestTrack": "1w ago",
+      "tracks": [
+        {
+          "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
+          "streams": "31845941",
+          "position": 1
+        },
+        {
+          "name": "Amanece",
+          "streams": "1076220357",
+          "position": 2
+        },
+        {
+          "name": "Hasta Que Dios Diga",
+          "streams": "807670427",
+          "position": 3
+        },
+        {
+          "name": "No Llores Mujer",
+          "streams": "23155668",
+          "position": 4
+        },
+        {
+          "name": "Somo o No Somos",
+          "streams": "41631492",
+          "position": 5
+        },
+        {
+          "name": "Reggaetonera",
+          "streams": "231318817",
+          "position": 6
+        },
+        {
+          "name": "China",
+          "streams": "1308005141",
+          "position": 7
+        },
+        {
+          "name": "Secreto",
+          "streams": "853663188",
+          "position": 8
+        },
+        {
+          "name": "Estrés Postraumático",
+          "streams": "36597378",
+          "position": 9
+        },
+        {
+          "name": "Rifles Rusos",
+          "streams": "32312334",
+          "position": 10
+        }
+      ],
+      "totalStreams": "4.4B",
       "url": "https://app.artist.tools/playlist/0mdKzQBwAutLFCncVSXQPL",
-      "error": "page.screenshot: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - taking page screenshot\u001b[22m\n\u001b[2m  - waiting for fonts to load...\u001b[22m\n\u001b[2m  - fonts loaded\u001b[22m\n",
       "additionalInfo": {
-        "uniqueArtists": 0,
-        "latestTrack": "",
-        "extractionTimestamp": "2025-09-21T18:13:49.365Z",
-        "extractionMethod": "error"
+        "uniqueArtists": 2,
+        "latestTrack": "1w ago",
+        "extractionTimestamp": "2025-09-21T18:22:37.487Z",
+        "extractionMethod": "success"
       }
     }
   ],
-  "generatedAt": "2025-09-21T18:13:04.525Z"
+  "generatedAt": "2025-09-21T18:21:20.061Z"
 }
