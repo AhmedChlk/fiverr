@@ -1,7 +1,7 @@
 {
   "date": "2025-09-21",
   "chatId": "7548169127",
-  "totalPlaylists": 1,
+  "totalPlaylists": 2,
   "playlists": [
     {
       "playlistName": "la partita",
@@ -14,10 +14,25 @@
       "additionalInfo": {
         "uniqueArtists": 2,
         "latestTrack": "1w ago",
-        "extractionTimestamp": "2025-09-21T21:07:38.361Z",
+        "extractionTimestamp": "2025-09-21T21:21:30.633Z",
+        "extractionMethod": "minimal"
+      }
+    },
+    {
+      "playlistName": "Deep House 2025",
+      "totalTracks": 150,
+      "uniqueArtists": 94,
+      "latestTrack": "2d ago",
+      "tracks": [],
+      "totalStreams": "5.3B",
+      "url": "https://app.artist.tools/playlist/6vDGVr652ztNWKZuHvsFvx",
+      "additionalInfo": {
+        "uniqueArtists": 94,
+        "latestTrack": "2d ago",
+        "extractionTimestamp": "2025-09-21T21:23:04.887Z",
         "extractionMethod": "minimal"
       }
     }
   ],
-  "generatedAt": "2025-09-21T21:06:17.405Z"
+  "generatedAt": "2025-09-21T21:20:10.681Z"
 }
