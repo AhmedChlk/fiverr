@@ -4,99 +4,115 @@
   "totalPlaylists": 1,
   "playlists": [
     {
-      "playlistName": "0mdkzqbwautlfcncvsxqpl",
+      "playlistName": "la partita",
       "totalTracks": 10,
-      "uniqueArtists": 0,
-      "latestTrack": "",
-      "totalStreams": 4442420743,
+      "uniqueArtists": 2,
+      "latestTrack": "1w ago",
       "tracks": [
         {
-          "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
-          "streams": "31 845 941",
-          "streamsNumeric": 31845941,
-          "position": 1,
+          "entityId": "7nrd0eIftH3NQLfgk20Qp9",
+          "title": "YOGURCITO REMIX (feat. Kris R., ROA)",
           "artists": [
+            "Blessd",
+            "Anuel AA",
+            "Yan Block",
+            "Luar La L",
             "Kris R.",
             "ROA"
-          ]
+          ],
+          "streams": 31845941
         },
         {
-          "name": "Amanece",
-          "streams": "1 076 220 357",
-          "streamsNumeric": 1076220357,
-          "position": 2,
-          "artists": []
+          "entityId": "1LiN0Z98FkR1t0m8KmLcAH",
+          "title": "Amanece",
+          "artists": [
+            "Anuel AA",
+            "Haze"
+          ],
+          "streams": 1076220357
         },
         {
-          "name": "Hasta Que Dios Diga",
-          "streams": "807 670 427",
-          "streamsNumeric": 807670427,
-          "position": 3,
-          "artists": []
+          "entityId": "06s3QtMJVXw1AJX3UfvZG1",
+          "title": "Hasta Que Dios Diga",
+          "artists": [
+            "Anuel AA",
+            "Bad Bunny"
+          ],
+          "streams": 807670427
         },
         {
-          "name": "No Llores Mujer",
-          "streams": "23 155 668",
-          "streamsNumeric": 23155668,
-          "position": 4,
-          "artists": []
+          "entityId": "6VN85VvNB8w1QbJCXW8rTC",
+          "title": "No Llores Mujer",
+          "artists": [
+            "Anuel AA",
+            "Travis Barker"
+          ],
+          "streams": 23155668
         },
         {
-          "name": "Somo o No Somos",
-          "streams": "41 631 492",
-          "streamsNumeric": 41631492,
-          "position": 5,
-          "artists": []
+          "entityId": "3YeImruYgPnQtn4QgHqi04",
+          "title": "Somo o No Somos",
+          "artists": [
+            "Anuel AA"
+          ],
+          "streams": 41631492
         },
         {
-          "name": "Reggaetonera",
-          "streams": "231 318 817",
-          "streamsNumeric": 231318817,
-          "position": 6,
-          "artists": []
+          "entityId": "6yVkakCN460KOVol9ZazjH",
+          "title": "Reggaetonera",
+          "artists": [
+            "Anuel AA"
+          ],
+          "streams": 231318817
         },
         {
-          "name": "China",
-          "streams": "1 308 005 141",
-          "streamsNumeric": 1308005141,
-          "position": 7,
-          "artists": []
+          "entityId": "0KkIkfsLEJbrcIhYsCL7L5",
+          "title": "China",
+          "artists": [
+            "Anuel AA",
+            "Daddy Yankee",
+            "KAROL G",
+            "Ozuna",
+            "J Balvin"
+          ],
+          "streams": 1308005141
         },
         {
-          "name": "Secreto",
-          "streams": "853 663 188",
-          "streamsNumeric": 853663188,
-          "position": 8,
-          "artists": []
+          "entityId": "5lRk8V5r03FhvjKB58VSHV",
+          "title": "Secreto",
+          "artists": [
+            "Anuel AA",
+            "KAROL G"
+          ],
+          "streams": 853663188
         },
         {
-          "name": "Estrés Postraumático",
-          "streams": "36 597 378",
-          "streamsNumeric": 36597378,
-          "position": 9,
-          "artists": []
+          "entityId": "3QNh1pSglpiumBHtU8XnQe",
+          "title": "Estrés Postraumático",
+          "artists": [
+            "Anuel AA"
+          ],
+          "streams": 36597378
         },
         {
-          "name": "Rifles Rusos",
-          "streams": "32 312 334",
-          "streamsNumeric": 32312334,
-          "position": 10,
-          "artists": []
+          "entityId": "2WzUy86kPLYRLRwLtinZ1x",
+          "title": "Rifles Rusos",
+          "artists": [
+            "Anuel AA",
+            "Tego Calderón"
+          ],
+          "streams": 32312334
         }
       ],
+      "totalStreams": "4.4B",
       "url": "https://app.artist.tools/playlist/0mdKzQBwAutLFCncVSXQPL",
       "additionalInfo": {
-        "uniqueArtists": 10,
-        "latestTrack": "YOGURCITO REMIX (feat. Kris R., ROA)",
-        "extractionTimestamp": "2025-09-21T20:11:52.644Z",
-        "extractionMethod": "complete_with_artists",
-        "tracksClickedSuccessfully": true,
-        "stats": {
-          "trackCountNumeric": 10,
-          "totalStreamsNumeric": 4442420743
-        }
+        "uniqueArtists": 2,
+        "latestTrack": "1w ago",
+        "extractionTimestamp": "2025-09-21T20:20:45.742Z",
+        "extractionMethod": "success"
       }
     }
   ],
-  "generatedAt": "2025-09-21T20:11:03.389Z"
+  "generatedAt": "2025-09-21T20:19:22.629Z"
 }
