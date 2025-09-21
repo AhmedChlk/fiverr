@@ -8,14 +8,109 @@
       "totalTracks": 10,
       "uniqueArtists": 2,
       "latestTrack": "1w ago",
-      "tracks": [],
+      "tracks": [
+        {
+          "entityId": "7nrd0eIftH3NQLfgk20Qp9",
+          "title": "YOGURCITO REMIX (feat. Kris R., ROA)",
+          "artists": [
+            "Blessd",
+            "Anuel AA",
+            "Yan Block",
+            "Luar La L",
+            "Kris R.",
+            "ROA"
+          ],
+          "streams": 31845941
+        },
+        {
+          "entityId": "1LiN0Z98FkR1t0m8KmLcAH",
+          "title": "Amanece",
+          "artists": [
+            "Anuel AA",
+            "Haze"
+          ],
+          "streams": 1076220357
+        },
+        {
+          "entityId": "06s3QtMJVXw1AJX3UfvZG1",
+          "title": "Hasta Que Dios Diga",
+          "artists": [
+            "Anuel AA",
+            "Bad Bunny"
+          ],
+          "streams": 807670427
+        },
+        {
+          "entityId": "6VN85VvNB8w1QbJCXW8rTC",
+          "title": "No Llores Mujer",
+          "artists": [
+            "Anuel AA",
+            "Travis Barker"
+          ],
+          "streams": 23155668
+        },
+        {
+          "entityId": "3YeImruYgPnQtn4QgHqi04",
+          "title": "Somo o No Somos",
+          "artists": [
+            "Anuel AA"
+          ],
+          "streams": 41631492
+        },
+        {
+          "entityId": "6yVkakCN460KOVol9ZazjH",
+          "title": "Reggaetonera",
+          "artists": [
+            "Anuel AA"
+          ],
+          "streams": 231318817
+        },
+        {
+          "entityId": "0KkIkfsLEJbrcIhYsCL7L5",
+          "title": "China",
+          "artists": [
+            "Anuel AA",
+            "Daddy Yankee",
+            "KAROL G",
+            "Ozuna",
+            "J Balvin"
+          ],
+          "streams": 1308005141
+        },
+        {
+          "entityId": "5lRk8V5r03FhvjKB58VSHV",
+          "title": "Secreto",
+          "artists": [
+            "Anuel AA",
+            "KAROL G"
+          ],
+          "streams": 853663188
+        },
+        {
+          "entityId": "3QNh1pSglpiumBHtU8XnQe",
+          "title": "Estrés Postraumático",
+          "artists": [
+            "Anuel AA"
+          ],
+          "streams": 36597378
+        },
+        {
+          "entityId": "2WzUy86kPLYRLRwLtinZ1x",
+          "title": "Rifles Rusos",
+          "artists": [
+            "Anuel AA",
+            "Tego Calderón"
+          ],
+          "streams": 32312334
+        }
+      ],
       "totalStreams": "4.4B",
       "url": "https://app.artist.tools/playlist/0mdKzQBwAutLFCncVSXQPL",
       "additionalInfo": {
         "uniqueArtists": 2,
         "latestTrack": "1w ago",
-        "extractionTimestamp": "2025-09-21T21:21:30.633Z",
-        "extractionMethod": "minimal"
+        "extractionTimestamp": "2025-09-21T21:29:25.628Z",
+        "extractionMethod": "success"
       }
     },
     {
@@ -23,16 +118,243 @@
       "totalTracks": 150,
       "uniqueArtists": 94,
       "latestTrack": "2d ago",
-      "tracks": [],
+      "tracks": [
+        {
+          "entityId": "78nx0HDJIFD5xDq2L5420Z",
+          "title": "Blessings",
+          "artists": [
+            "Calvin Harris",
+            "Clementine Douglas"
+          ],
+          "streams": 175455382
+        },
+        {
+          "entityId": "5iP6VWh8goBkJcXBMQSejA",
+          "title": "You're Makin' Me High",
+          "artists": [
+            "DJ Katch",
+            "Amira Eldine"
+          ],
+          "streams": 50457190
+        },
+        {
+          "entityId": "3cZajhyr8LmtPfHZ9296tj",
+          "title": "No Broke Boys",
+          "artists": [
+            "Disco Lines",
+            "Tinashe"
+          ],
+          "streams": 207382437
+        },
+        {
+          "entityId": "6zebgbvTnD3NsCgNgRRnk8",
+          "title": "That's Where I Should Be",
+          "artists": [
+            "MA:RK"
+          ],
+          "streams": 8162003
+        },
+        {
+          "entityId": "5RTxa9jsUa7JYcn9McdQ8f",
+          "title": "My Name Is Not Susan",
+          "artists": [
+            "DJ Katch"
+          ],
+          "streams": 6711017
+        },
+        {
+          "entityId": "5nPbKG04fhLkIAjcPFaZq7",
+          "title": "I Adore You (feat. Daecolm)",
+          "artists": [
+            "HUGEL",
+            "Topic",
+            "Arash",
+            "Daecolm"
+          ],
+          "streams": 459951227
+        },
+        {
+          "entityId": "0cTvHN1nMaINu2cZFK87d8",
+          "title": "Never Change",
+          "artists": [
+            "Stevie Appleton"
+          ],
+          "streams": 473588
+        },
+        {
+          "entityId": "4ClVzfSYEea03HjEoDYOX3",
+          "title": "Sweet Nothing - 2025 Edit",
+          "artists": [
+            "D.O.D",
+            "Calvin Harris",
+            "Florence Welch"
+          ],
+          "streams": 7980245
+        },
+        {
+          "entityId": "1nHWcLi8wupts5WkjIAflQ",
+          "title": "Fix Me",
+          "artists": [
+            "CAKES",
+            "Sam Harper"
+          ],
+          "streams": 2188289
+        },
+        {
+          "entityId": "58mmJ7RXEesiCJeYGK3QJY",
+          "title": "If You Had My Love",
+          "artists": [
+            "Paul Schulze",
+            "FŪNKENSTEIN",
+            "LEVII"
+          ],
+          "streams": 2658580
+        },
+        {
+          "entityId": "75n9WHWZAzhB59xSjIHly4",
+          "title": "WACUKA",
+          "artists": [
+            "AVAION",
+            "Sofiya Nzau"
+          ],
+          "streams": 84162319
+        },
+        {
+          "entityId": "2133rQihpZpqNyA6iZcC7M",
+          "title": "CARMEN - 8181 Enzo Remix",
+          "artists": [
+            "Airmow",
+            "Reiyo The Giant",
+            "8181 Enzo"
+          ],
+          "streams": 152956
+        },
+        {
+          "entityId": "5v2wRn44H8LLX6iCYUAMP7",
+          "title": "Waiting for Love",
+          "artists": [
+            "Tudor",
+            "Embody"
+          ],
+          "streams": 39881
+        },
+        {
+          "entityId": "1rb65ahUV0k2QYq4x3Fi9y",
+          "title": "Bloom",
+          "artists": [
+            "Astrality",
+            "FLORES"
+          ],
+          "streams": 4010444
+        },
+        {
+          "entityId": "62jZuB60iHHjaMJIf9584g",
+          "title": "In the Jungle",
+          "artists": [
+            "Belters Only",
+            "Karen Harding"
+          ],
+          "streams": 711883
+        },
+        {
+          "entityId": "6EUfZGFToR6jPqyzAoH8WY",
+          "title": "Say It Right - Rinzen Remix",
+          "artists": [
+            "Nelly Furtado",
+            "Rinzen"
+          ],
+          "streams": 3194240
+        },
+        {
+          "entityId": "79fIQTrSfK6J9r8va0INAo",
+          "title": "Mood Song",
+          "artists": [
+            "Why U So",
+            "Lua Sola"
+          ],
+          "streams": 330230
+        },
+        {
+          "entityId": "43FNnp0KnanReB8KCTl97p",
+          "title": "Hold on Me",
+          "artists": [
+            "Why U So",
+            "SHELLS"
+          ],
+          "streams": 23051929
+        },
+        {
+          "entityId": "1Jht2fusiIuJo0KRvjUizH",
+          "title": "Mess Around (Baby Baby)",
+          "artists": [
+            "Rivo",
+            "Jaquet"
+          ],
+          "streams": 5274630
+        },
+        {
+          "entityId": "1GfJCWGLfdev016PSsrUO8",
+          "title": "Make Me Feel",
+          "artists": [
+            "oskar med k"
+          ],
+          "streams": 53327453
+        },
+        {
+          "entityId": "2uFY0PF58YPA3kgWlxjUKI",
+          "title": "Daylight",
+          "artists": [
+            "TCTS",
+            "Hayley May"
+          ],
+          "streams": 3035512
+        },
+        {
+          "entityId": "5OFVzqSeFxGpvDGyHvVeLj",
+          "title": "It's Not Right But It's Okay",
+          "artists": [
+            "Mr. Belt & Wezol"
+          ],
+          "streams": 276655750
+        },
+        {
+          "entityId": "1aWI6JTjH8rSXmC6V1Q3Na",
+          "title": "Waiting",
+          "artists": [
+            "Paul Schulze",
+            "Aiko",
+            "whoisanyelo"
+          ],
+          "streams": 437176
+        },
+        {
+          "entityId": "5OSy4sK60q4uXmOO95LVI6",
+          "title": "Reasons",
+          "artists": [
+            "London Topaz",
+            "Clearest"
+          ],
+          "streams": 1187483
+        },
+        {
+          "entityId": "5lRzNBSLgUQFZhJrEYGqPN",
+          "title": "Deep of You",
+          "artists": [
+            "Astrality",
+            "Marlo Rex"
+          ],
+          "streams": 7828382
+        }
+      ],
       "totalStreams": "5.3B",
       "url": "https://app.artist.tools/playlist/6vDGVr652ztNWKZuHvsFvx",
       "additionalInfo": {
         "uniqueArtists": 94,
         "latestTrack": "2d ago",
-        "extractionTimestamp": "2025-09-21T21:23:04.887Z",
-        "extractionMethod": "minimal"
+        "extractionTimestamp": "2025-09-21T21:30:56.413Z",
+        "extractionMethod": "success"
       }
     }
   ],
-  "generatedAt": "2025-09-21T21:20:10.681Z"
+  "generatedAt": "2025-09-21T21:28:04.096Z"
 }
