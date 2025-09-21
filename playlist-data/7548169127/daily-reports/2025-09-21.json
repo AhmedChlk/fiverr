@@ -1,0 +1,23 @@
+{
+  "date": "2025-09-21",
+  "chatId": "7548169127",
+  "totalPlaylists": 1,
+  "playlists": [
+    {
+      "playlistName": "la partita",
+      "totalTracks": 10,
+      "uniqueArtists": 2,
+      "latestTrack": "1w ago",
+      "tracks": [],
+      "totalStreams": "2 unique artists",
+      "url": "https://app.artist.tools/playlist/0mdKzQBwAutLFCncVSXQPL",
+      "additionalInfo": {
+        "uniqueArtists": 2,
+        "latestTrack": "1w ago",
+        "extractionTimestamp": "2025-09-21T11:55:14.379Z",
+        "extractionMethod": "minimal"
+      }
+    }
+  ],
+  "generatedAt": "2025-09-21T11:54:44.759Z"
+}
