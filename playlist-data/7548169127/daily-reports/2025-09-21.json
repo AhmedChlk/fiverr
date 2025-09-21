@@ -8,67 +8,98 @@
       "totalTracks": 10,
       "uniqueArtists": 2,
       "latestTrack": "1w ago",
+      "totalStreams": 4442420743,
       "tracks": [
         {
           "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
-          "streams": "31845941",
-          "position": 1
+          "streams": "31 845 941",
+          "streamsNumeric": 31845941,
+          "position": 1,
+          "artists": [
+            "Blessd",
+            "Anuel AA",
+            "Yan Block",
+            "Luar La L",
+            "Kris R."
+          ]
         },
         {
           "name": "Amanece",
-          "streams": "1076220357",
-          "position": 2
+          "streams": "1 076 220 357",
+          "streamsNumeric": 1076220357,
+          "position": 2,
+          "artists": []
         },
         {
           "name": "Hasta Que Dios Diga",
-          "streams": "807670427",
-          "position": 3
+          "streams": "807 670 427",
+          "streamsNumeric": 807670427,
+          "position": 3,
+          "artists": []
         },
         {
           "name": "No Llores Mujer",
-          "streams": "23155668",
-          "position": 4
+          "streams": "23 155 668",
+          "streamsNumeric": 23155668,
+          "position": 4,
+          "artists": []
         },
         {
           "name": "Somo o No Somos",
-          "streams": "41631492",
-          "position": 5
+          "streams": "41 631 492",
+          "streamsNumeric": 41631492,
+          "position": 5,
+          "artists": []
         },
         {
           "name": "Reggaetonera",
-          "streams": "231318817",
-          "position": 6
+          "streams": "231 318 817",
+          "streamsNumeric": 231318817,
+          "position": 6,
+          "artists": []
         },
         {
           "name": "China",
-          "streams": "1308005141",
-          "position": 7
+          "streams": "1 308 005 141",
+          "streamsNumeric": 1308005141,
+          "position": 7,
+          "artists": []
         },
         {
           "name": "Secreto",
-          "streams": "853663188",
-          "position": 8
+          "streams": "853 663 188",
+          "streamsNumeric": 853663188,
+          "position": 8,
+          "artists": []
         },
         {
           "name": "Estrés Postraumático",
-          "streams": "36597378",
-          "position": 9
+          "streams": "36 597 378",
+          "streamsNumeric": 36597378,
+          "position": 9,
+          "artists": []
         },
         {
           "name": "Rifles Rusos",
-          "streams": "32312334",
-          "position": 10
+          "streams": "32 312 334",
+          "streamsNumeric": 32312334,
+          "position": 10,
+          "artists": []
         }
       ],
-      "totalStreams": "4.4B",
       "url": "https://app.artist.tools/playlist/0mdKzQBwAutLFCncVSXQPL",
       "additionalInfo": {
         "uniqueArtists": 2,
         "latestTrack": "1w ago",
-        "extractionTimestamp": "2025-09-21T18:22:37.487Z",
-        "extractionMethod": "success"
+        "extractionTimestamp": "2025-09-21T20:05:14.736Z",
+        "extractionMethod": "complete_with_artists",
+        "tracksClickedSuccessfully": true,
+        "stats": {
+          "trackCountNumeric": 10,
+          "totalStreamsNumeric": 4442420743
+        }
       }
     }
   ],
-  "generatedAt": "2025-09-21T18:21:20.061Z"
+  "generatedAt": "2025-09-21T20:04:35.394Z"
 }
