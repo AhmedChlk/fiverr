@@ -11,70 +11,70 @@
       "tracks": [
         {
           "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
-          "streams": "30 789 853",
+          "streams": "31 845 941",
           "position": 1,
           "tableIndex": 0,
           "rowIndex": 1
         },
         {
           "name": "Amanece",
-          "streams": "1 075 583 033",
+          "streams": "1 076 220 357",
           "position": 2,
           "tableIndex": 0,
           "rowIndex": 2
         },
         {
           "name": "Hasta Que Dios Diga",
-          "streams": "807 115 523",
+          "streams": "807 670 427",
           "position": 3,
           "tableIndex": 0,
           "rowIndex": 3
         },
         {
           "name": "No Llores Mujer",
-          "streams": "23 153 310",
+          "streams": "23 155 668",
           "position": 4,
           "tableIndex": 0,
           "rowIndex": 4
         },
         {
           "name": "Somo o No Somos",
-          "streams": "41 623 233",
+          "streams": "41 631 492",
           "position": 5,
           "tableIndex": 0,
           "rowIndex": 5
         },
         {
           "name": "Reggaetonera",
-          "streams": "231 284 339",
+          "streams": "231 318 817",
           "position": 6,
           "tableIndex": 0,
           "rowIndex": 6
         },
         {
           "name": "China",
-          "streams": "1 307 743 614",
+          "streams": "1 308 005 141",
           "position": 7,
           "tableIndex": 0,
           "rowIndex": 7
         },
         {
           "name": "Secreto",
-          "streams": "853 451 086",
+          "streams": "853 663 188",
           "position": 8,
           "tableIndex": 0,
           "rowIndex": 8
         },
         {
           "name": "Estrés Postraumático",
-          "streams": "36 586 753",
+          "streams": "36 597 378",
           "position": 9,
           "tableIndex": 0,
           "rowIndex": 9
         },
         {
           "name": "Rifles Rusos",
-          "streams": "32 306 302",
+          "streams": "32 312 334",
           "position": 10,
           "tableIndex": 0,
           "rowIndex": 10
@@ -85,11 +85,11 @@
       "additionalInfo": {
         "uniqueArtists": 2,
         "latestTrack": "1w ago",
-        "extractionTimestamp": "2025-09-21T12:05:42.048Z",
+        "extractionTimestamp": "2025-09-21T18:04:29.593Z",
         "extractionMethod": "success",
         "tracksClickedSuccessfully": true
       }
     }
   ],
-  "generatedAt": "2025-09-21T12:05:05.671Z"
+  "generatedAt": "2025-09-21T18:03:55.385Z"
 }
