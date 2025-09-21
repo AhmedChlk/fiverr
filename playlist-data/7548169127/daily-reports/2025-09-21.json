@@ -8,16 +8,88 @@
       "totalTracks": 10,
       "uniqueArtists": 2,
       "latestTrack": "1w ago",
-      "tracks": [],
+      "tracks": [
+        {
+          "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
+          "streams": "30 789 853",
+          "position": 1,
+          "tableIndex": 0,
+          "rowIndex": 1
+        },
+        {
+          "name": "Amanece",
+          "streams": "1 075 583 033",
+          "position": 2,
+          "tableIndex": 0,
+          "rowIndex": 2
+        },
+        {
+          "name": "Hasta Que Dios Diga",
+          "streams": "807 115 523",
+          "position": 3,
+          "tableIndex": 0,
+          "rowIndex": 3
+        },
+        {
+          "name": "No Llores Mujer",
+          "streams": "23 153 310",
+          "position": 4,
+          "tableIndex": 0,
+          "rowIndex": 4
+        },
+        {
+          "name": "Somo o No Somos",
+          "streams": "41 623 233",
+          "position": 5,
+          "tableIndex": 0,
+          "rowIndex": 5
+        },
+        {
+          "name": "Reggaetonera",
+          "streams": "231 284 339",
+          "position": 6,
+          "tableIndex": 0,
+          "rowIndex": 6
+        },
+        {
+          "name": "China",
+          "streams": "1 307 743 614",
+          "position": 7,
+          "tableIndex": 0,
+          "rowIndex": 7
+        },
+        {
+          "name": "Secreto",
+          "streams": "853 451 086",
+          "position": 8,
+          "tableIndex": 0,
+          "rowIndex": 8
+        },
+        {
+          "name": "Estrés Postraumático",
+          "streams": "36 586 753",
+          "position": 9,
+          "tableIndex": 0,
+          "rowIndex": 9
+        },
+        {
+          "name": "Rifles Rusos",
+          "streams": "32 306 302",
+          "position": 10,
+          "tableIndex": 0,
+          "rowIndex": 10
+        }
+      ],
       "totalStreams": "2 unique artists",
       "url": "https://app.artist.tools/playlist/0mdKzQBwAutLFCncVSXQPL",
       "additionalInfo": {
         "uniqueArtists": 2,
         "latestTrack": "1w ago",
-        "extractionTimestamp": "2025-09-21T11:55:14.379Z",
-        "extractionMethod": "minimal"
+        "extractionTimestamp": "2025-09-21T12:05:42.048Z",
+        "extractionMethod": "success",
+        "tracksClickedSuccessfully": true
       }
     }
   ],
-  "generatedAt": "2025-09-21T11:54:44.759Z"
+  "generatedAt": "2025-09-21T12:05:05.671Z"
 }
