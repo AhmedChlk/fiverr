@@ -1,0 +1,112 @@
+{
+  "date": "2025-09-23",
+  "chatId": "5747021991",
+  "totalPlaylists": 1,
+  "playlists": [
+    {
+      "playlistName": "la partita",
+      "totalTracks": 10,
+      "uniqueArtists": 2,
+      "latestTrack": "1w ago",
+      "tracks": [
+        {
+          "entityId": "7nrd0eIftH3NQLfgk20Qp9",
+          "title": "YOGURCITO REMIX (feat. Kris R., ROA)",
+          "artists": [
+            "Blessd",
+            "Anuel AA",
+            "Yan Block",
+            "Luar La L",
+            "Kris R.",
+            "ROA"
+          ],
+          "streams": 32769349
+        },
+        {
+          "entityId": "1LiN0Z98FkR1t0m8KmLcAH",
+          "title": "Amanece",
+          "artists": [
+            "Anuel AA",
+            "Haze"
+          ],
+          "streams": 1076724459
+        },
+        {
+          "entityId": "06s3QtMJVXw1AJX3UfvZG1",
+          "title": "Hasta Que Dios Diga",
+          "artists": [
+            "Anuel AA",
+            "Bad Bunny"
+          ],
+          "streams": 808092097
+        },
+        {
+          "entityId": "6VN85VvNB8w1QbJCXW8rTC",
+          "title": "No Llores Mujer",
+          "artists": [
+            "Anuel AA",
+            "Travis Barker"
+          ],
+          "streams": 23157640
+        },
+        {
+          "entityId": "3YeImruYgPnQtn4QgHqi04",
+          "title": "Somo o No Somos",
+          "artists": [
+            "Anuel AA"
+          ],
+          "streams": 41638060
+        },
+        {
+          "entityId": "6yVkakCN460KOVol9ZazjH",
+          "title": "Reggaetonera",
+          "artists": [
+            "Anuel AA"
+          ],
+          "streams": 231346171
+        },
+        {
+          "entityId": "0KkIkfsLEJbrcIhYsCL7L5",
+          "title": "China",
+          "artists": [
+            "Anuel AA",
+            "Daddy Yankee",
+            "KAROL G",
+            "Ozuna",
+            "J Balvin"
+          ],
+          "streams": 1308213470
+        },
+        {
+          "entityId": "5lRk8V5r03FhvjKB58VSHV",
+          "title": "Secreto",
+          "artists": [
+            "Anuel AA",
+            "KAROL G"
+          ],
+          "streams": 853848971
+        },
+        {
+          "entityId": "3QNh1pSglpiumBHtU8XnQe",
+          "title": "Estrés Postraumático",
+          "artists": [
+            "Anuel AA"
+          ],
+          "streams": 36606103
+        },
+        {
+          "entityId": "2WzUy86kPLYRLRwLtinZ1x",
+          "title": "Rifles Rusos",
+          "artists": [
+            "Anuel AA",
+            "Tego Calderón"
+          ],
+          "streams": 32317357
+        }
+      ],
+      "totalStreams": "N/A",
+      "url": "https://app.artist.tools/playlist/0mdKzQBwAutLFCncVSXQPL"
+    }
+  ],
+  "generatedAt": "2025-09-23T15:01:41.881Z"
+}
