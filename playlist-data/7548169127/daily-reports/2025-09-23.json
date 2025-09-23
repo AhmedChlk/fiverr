@@ -1,7 +1,7 @@
 {
   "date": "2025-09-23",
   "chatId": "7548169127",
-  "totalPlaylists": 1,
+  "totalPlaylists": 2,
   "playlists": [
     {
       "playlistName": "la partita",
@@ -109,10 +109,252 @@
       "additionalInfo": {
         "uniqueArtists": 2,
         "latestTrack": "1w ago",
-        "extractionTimestamp": "2025-09-23T06:38:50.003Z",
+        "extractionTimestamp": "2025-09-23T06:45:24.556Z",
+        "extractionMethod": "success"
+      }
+    },
+    {
+      "playlistName": "Deep House 2025",
+      "totalTracks": 150,
+      "uniqueArtists": 94,
+      "latestTrack": "3d ago",
+      "tracks": [
+        {
+          "entityId": "78nx0HDJIFD5xDq2L5420Z",
+          "title": "Blessings",
+          "artists": [
+            "Calvin Harris",
+            "Clementine Douglas"
+          ],
+          "streams": 176267825
+        },
+        {
+          "entityId": "5iP6VWh8goBkJcXBMQSejA",
+          "title": "You're Makin' Me High",
+          "artists": [
+            "DJ Katch",
+            "Amira Eldine"
+          ],
+          "streams": 50529008
+        },
+        {
+          "entityId": "3cZajhyr8LmtPfHZ9296tj",
+          "title": "No Broke Boys",
+          "artists": [
+            "Disco Lines",
+            "Tinashe"
+          ],
+          "streams": 209848881
+        },
+        {
+          "entityId": "6zebgbvTnD3NsCgNgRRnk8",
+          "title": "That's Where I Should Be",
+          "artists": [
+            "MA:RK"
+          ],
+          "streams": 8210570
+        },
+        {
+          "entityId": "5RTxa9jsUa7JYcn9McdQ8f",
+          "title": "My Name Is Not Susan",
+          "artists": [
+            "DJ Katch"
+          ],
+          "streams": 6753809
+        },
+        {
+          "entityId": "5nPbKG04fhLkIAjcPFaZq7",
+          "title": "I Adore You (feat. Daecolm)",
+          "artists": [
+            "HUGEL",
+            "Topic",
+            "Arash",
+            "Daecolm"
+          ],
+          "streams": 460795521
+        },
+        {
+          "entityId": "0cTvHN1nMaINu2cZFK87d8",
+          "title": "Never Change",
+          "artists": [
+            "Stevie Appleton"
+          ],
+          "streams": 500017
+        },
+        {
+          "entityId": "4ClVzfSYEea03HjEoDYOX3",
+          "title": "Sweet Nothing - 2025 Edit",
+          "artists": [
+            "D.O.D",
+            "Calvin Harris",
+            "Florence Welch"
+          ],
+          "streams": 8110767
+        },
+        {
+          "entityId": "1nHWcLi8wupts5WkjIAflQ",
+          "title": "Fix Me",
+          "artists": [
+            "CAKES",
+            "Sam Harper"
+          ],
+          "streams": 2209615
+        },
+        {
+          "entityId": "58mmJ7RXEesiCJeYGK3QJY",
+          "title": "If You Had My Love",
+          "artists": [
+            "Paul Schulze",
+            "FŪNKENSTEIN",
+            "LEVII"
+          ],
+          "streams": 2675753
+        },
+        {
+          "entityId": "75n9WHWZAzhB59xSjIHly4",
+          "title": "WACUKA",
+          "artists": [
+            "AVAION",
+            "Sofiya Nzau"
+          ],
+          "streams": 84391040
+        },
+        {
+          "entityId": "2133rQihpZpqNyA6iZcC7M",
+          "title": "CARMEN - 8181 Enzo Remix",
+          "artists": [
+            "Airmow",
+            "Reiyo The Giant",
+            "Enzo"
+          ],
+          "streams": 169181
+        },
+        {
+          "entityId": "5v2wRn44H8LLX6iCYUAMP7",
+          "title": "Waiting for Love",
+          "artists": [
+            "Tudor",
+            "Embody"
+          ],
+          "streams": 56584
+        },
+        {
+          "entityId": "1rb65ahUV0k2QYq4x3Fi9y",
+          "title": "Bloom",
+          "artists": [
+            "Astrality",
+            "FLORES"
+          ],
+          "streams": 4042293
+        },
+        {
+          "entityId": "62jZuB60iHHjaMJIf9584g",
+          "title": "In the Jungle",
+          "artists": [
+            "Belters Only",
+            "Karen Harding"
+          ],
+          "streams": 733015
+        },
+        {
+          "entityId": "6EUfZGFToR6jPqyzAoH8WY",
+          "title": "Say It Right - Rinzen Remix",
+          "artists": [
+            "Nelly Furtado",
+            "Rinzen"
+          ],
+          "streams": 3212075
+        },
+        {
+          "entityId": "79fIQTrSfK6J9r8va0INAo",
+          "title": "Mood Song",
+          "artists": [
+            "Why U So",
+            "Lua Sola"
+          ],
+          "streams": 368729
+        },
+        {
+          "entityId": "43FNnp0KnanReB8KCTl97p",
+          "title": "Hold on Me",
+          "artists": [
+            "Why U So",
+            "SHELLS"
+          ],
+          "streams": 23077387
+        },
+        {
+          "entityId": "1Jht2fusiIuJo0KRvjUizH",
+          "title": "Mess Around (Baby Baby)",
+          "artists": [
+            "Rivo",
+            "Jaquet"
+          ],
+          "streams": 5339289
+        },
+        {
+          "entityId": "1GfJCWGLfdev016PSsrUO8",
+          "title": "Make Me Feel",
+          "artists": [
+            "oskar med k"
+          ],
+          "streams": 54010928
+        },
+        {
+          "entityId": "2uFY0PF58YPA3kgWlxjUKI",
+          "title": "Daylight",
+          "artists": [
+            "TCTS",
+            "Hayley May"
+          ],
+          "streams": 3045848
+        },
+        {
+          "entityId": "5OFVzqSeFxGpvDGyHvVeLj",
+          "title": "It's Not Right But It's Okay",
+          "artists": [
+            "Mr. Belt & Wezol"
+          ],
+          "streams": 277005395
+        },
+        {
+          "entityId": "1aWI6JTjH8rSXmC6V1Q3Na",
+          "title": "Waiting",
+          "artists": [
+            "Paul Schulze",
+            "Aiko",
+            "whoisanyelo"
+          ],
+          "streams": 444841
+        },
+        {
+          "entityId": "5OSy4sK60q4uXmOO95LVI6",
+          "title": "Reasons",
+          "artists": [
+            "London Topaz",
+            "Clearest"
+          ],
+          "streams": 1199070
+        },
+        {
+          "entityId": "5lRzNBSLgUQFZhJrEYGqPN",
+          "title": "Deep of You",
+          "artists": [
+            "Astrality",
+            "Marlo Rex"
+          ],
+          "streams": 7846523
+        }
+      ],
+      "totalStreams": "5.3B",
+      "url": "https://app.artist.tools/playlist/6vDGVr652ztNWKZuHvsFvx",
+      "additionalInfo": {
+        "uniqueArtists": 94,
+        "latestTrack": "3d ago",
+        "extractionTimestamp": "2025-09-23T06:46:11.728Z",
         "extractionMethod": "success"
       }
     }
   ],
-  "generatedAt": "2025-09-23T06:38:02.533Z"
+  "generatedAt": "2025-09-23T06:44:39.195Z"
 }
