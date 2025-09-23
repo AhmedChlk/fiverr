@@ -1,7 +1,7 @@
 {
   "date": "2025-09-23",
   "chatId": "7548169127",
-  "totalPlaylists": 2,
+  "totalPlaylists": 4,
   "playlists": [
     {
       "playlistName": "la partita",
@@ -109,7 +109,7 @@
       "additionalInfo": {
         "uniqueArtists": 2,
         "latestTrack": "1w ago",
-        "extractionTimestamp": "2025-09-23T07:00:16.543Z",
+        "extractionTimestamp": "2025-09-23T07:06:35.639Z",
         "extractionMethod": "success"
       }
     },
@@ -351,10 +351,516 @@
       "additionalInfo": {
         "uniqueArtists": 94,
         "latestTrack": "3d ago",
-        "extractionTimestamp": "2025-09-23T07:01:02.945Z",
+        "extractionTimestamp": "2025-09-23T07:07:21.725Z",
+        "extractionMethod": "success"
+      }
+    },
+    {
+      "playlistName": "Car Music",
+      "totalTracks": 147,
+      "uniqueArtists": 84,
+      "latestTrack": "1w ago",
+      "tracks": [
+        {
+          "entityId": "19QzEu9U8KGzdYsNfP3xxv",
+          "title": "Dance with Somebody",
+          "artists": [
+            "Nic Johnston"
+          ],
+          "streams": 1311475
+        },
+        {
+          "entityId": "75wWKL5YexP6LQtPhnXFpI",
+          "title": "Tell Me Why",
+          "artists": [
+            "Jovani",
+            "Chris Crone"
+          ],
+          "streams": 703525
+        },
+        {
+          "entityId": "1OcV53oesLQw3VTW9I3uD3",
+          "title": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
+          "artists": [
+            "James Hype",
+            "Sam Harper",
+            "Bobby Harvey"
+          ],
+          "streams": 9860858
+        },
+        {
+          "entityId": "2FAZskT9yRjp2Oow9szJD8",
+          "title": "The Days - NOTION Remix",
+          "artists": [
+            "Chrystal",
+            "NOTION"
+          ],
+          "streams": 418744579
+        },
+        {
+          "entityId": "0bYOOFPurJTLCm2DOHPxiz",
+          "title": "Painkiller",
+          "artists": [
+            "LANNÉ",
+            "Paul Keen",
+            "JUSTN X"
+          ],
+          "streams": 776166
+        },
+        {
+          "entityId": "3rb0tMq42WfggucPm0HHkA",
+          "title": "Bad Memories (feat. Elley Duhé & FAST BOY)",
+          "artists": [
+            "MEDUZA",
+            "James Carter",
+            "Elley Duhé",
+            "FAST BOY"
+          ],
+          "streams": 606359197
+        },
+        {
+          "entityId": "78nx0HDJIFD5xDq2L5420Z",
+          "title": "Blessings",
+          "artists": [
+            "Calvin Harris",
+            "Clementine Douglas"
+          ],
+          "streams": 176267825
+        },
+        {
+          "entityId": "2V65y3PX4DkRhy1djlxd9p",
+          "title": "Don't You Worry Child - Radio Edit",
+          "artists": [
+            "Swedish House Mafia",
+            "John Martin"
+          ],
+          "streams": 1341346268
+        },
+        {
+          "entityId": "4Ev1atZe0JmN7EpMbD3v8I",
+          "title": "Bad Ideas",
+          "artists": [
+            "Paul Keen",
+            "Danny Suko",
+            "Gabriel Wittner"
+          ],
+          "streams": 106866
+        },
+        {
+          "entityId": "4b2tcjrG1qUkSdsqEFP2dB",
+          "title": "Sun Is Shining",
+          "artists": [
+            "Axwell /\\ Ingrosso",
+            "Axwell",
+            "Sebastian Ingrosso"
+          ],
+          "streams": 413391960
+        },
+        {
+          "entityId": "65hRZOQkVjmBdusz1N7aOv",
+          "title": "Save The World",
+          "artists": [
+            "Swedish House Mafia"
+          ],
+          "streams": 255746727
+        },
+        {
+          "entityId": "2dC8sFafTP18uiT9bKlSQo",
+          "title": "Messy",
+          "artists": [
+            "Blaze U",
+            "LAZAR",
+            "TYMMA"
+          ],
+          "streams": 1510876
+        },
+        {
+          "entityId": "3orPexerpG8gCfW2VCzN8C",
+          "title": "Run",
+          "artists": [
+            "Able Faces",
+            "So Damn Easy",
+            "Oskr"
+          ],
+          "streams": 31642
+        },
+        {
+          "entityId": "6N9WShRfHZc9jnDDQQaR4N",
+          "title": "Waterfall",
+          "artists": [
+            "Jonasu",
+            "Gaullin",
+            "LANNÉ"
+          ],
+          "streams": 702136
+        },
+        {
+          "entityId": "0SML6wWerD0yI2Xd4OUC1R",
+          "title": "Better Off (Alone, Pt. III)",
+          "artists": [
+            "Alan Walker",
+            "Dash Berlin",
+            "Vikkstar"
+          ],
+          "streams": 198570161
+        },
+        {
+          "entityId": "6PbBFxvrhMIPm4jMYlglHY",
+          "title": "High Life",
+          "artists": [
+            "Garnic",
+            "Blaze U",
+            "Jordan Grace"
+          ],
+          "streams": 298003
+        },
+        {
+          "entityId": "0p4qtjF6lD5LFHmEf0TnML",
+          "title": "It's Alright",
+          "artists": [
+            "LUDVIC",
+            "VARUS"
+          ],
+          "streams": 257869
+        },
+        {
+          "entityId": "2abJ2HyoStupb22cdXv4F6",
+          "title": "The Best I Can",
+          "artists": [
+            "LANNÉ",
+            "LAZAR",
+            "MR.WhileAgo"
+          ],
+          "streams": 722414
+        },
+        {
+          "entityId": "0NlhOzQ9ubCHkzyUMjRjZE",
+          "title": "Euphoria (with Alok)",
+          "artists": [
+            "Armin van Buuren",
+            "Alok",
+            "Norma Jean Martine",
+            "LAWRENT"
+          ],
+          "streams": 18321060
+        },
+        {
+          "entityId": "22f9AFkumwx5bZ92MZYmsC",
+          "title": "The Only One",
+          "artists": [
+            "Garnic",
+            "Blaze U",
+            "Chris Crone"
+          ],
+          "streams": 48449
+        },
+        {
+          "entityId": "4hGTX2IEcx9lGefJwNyqi2",
+          "title": "Gravity",
+          "artists": [
+            "Mannymore"
+          ],
+          "streams": 54481
+        },
+        {
+          "entityId": "6hicE3Xij8tjm4RExnmz49",
+          "title": "Superstars",
+          "artists": [
+            "ThatBehavior"
+          ],
+          "streams": 20235
+        },
+        {
+          "entityId": "6oJRhsupj717ALUfCXJpBX",
+          "title": "Silence",
+          "artists": [
+            "Garnic",
+            "Josiah Nichols"
+          ],
+          "streams": 80348
+        },
+        {
+          "entityId": "6ycIaEkmdVXgjpge2DAeWo",
+          "title": "Empty Home",
+          "artists": [
+            "LANNÉ",
+            "IGOR"
+          ],
+          "streams": 204715
+        },
+        {
+          "entityId": "2FBqU12DAwj86ZGXzweIt4",
+          "title": "Impossible",
+          "artists": [
+            "LAZAR",
+            "MR.WhileAgo"
+          ],
+          "streams": 29836
+        }
+      ],
+      "totalStreams": "9.6B",
+      "url": "https://app.artist.tools/playlist/1QNIPdWMxKHBYED5ZXfNVU",
+      "additionalInfo": {
+        "uniqueArtists": 84,
+        "latestTrack": "1w ago",
+        "extractionTimestamp": "2025-09-23T07:08:08.396Z",
+        "extractionMethod": "success"
+      }
+    },
+    {
+      "playlistName": "Deep House - dance music to workout, game & party to by dance fruits",
+      "totalTracks": 136,
+      "uniqueArtists": 26,
+      "latestTrack": "1y ago",
+      "tracks": [
+        {
+          "entityId": "59NraMJsLaMCVtwXTSia8i",
+          "title": "Prada",
+          "artists": [
+            "cassö",
+            "RAYE",
+            "D-Block Europe"
+          ],
+          "streams": 954603927
+        },
+        {
+          "entityId": "7vUROW0qSrg2HACYL3rglZ",
+          "title": "Calabria (feat. Fallen Roses, Lujavo & Lunis) - Steve Void Edit",
+          "artists": [
+            "Dance Fruits Music",
+            "DMNDS",
+            "Lunis",
+            "Steve Void",
+            "Lujavo",
+            "Fallen Roses"
+          ],
+          "streams": 15625612
+        },
+        {
+          "entityId": "1BXfDqPvs6SJbAcOEK40Z3",
+          "title": "The Rhythm of the Night",
+          "artists": [
+            "MELON",
+            "Rezidential",
+            "Dance Fruits Music"
+          ],
+          "streams": 12057690
+        },
+        {
+          "entityId": "5ZUIPLoTLJZrPQh2kFZEUM",
+          "title": "Addicted",
+          "artists": [
+            "Zerb",
+            "The Chainsmokers",
+            "Ink"
+          ],
+          "streams": 353700081
+        },
+        {
+          "entityId": "4RkZWbpfkzXUyahUkR1Lyh",
+          "title": "Pon de Replay",
+          "artists": [
+            "MELON",
+            "Steve Void",
+            "Dance Fruits Music"
+          ],
+          "streams": 16086487
+        },
+        {
+          "entityId": "6JbvvGKwtgcjeOU810AS8w",
+          "title": "Thick Of It All",
+          "artists": [
+            "Alan Walker",
+            "Joe Jonas",
+            "Julia Michaels"
+          ],
+          "streams": 9140878
+        },
+        {
+          "entityId": "4rngjvFqdPeG4pMOI7SUGt",
+          "title": "Lay All Your Love On Me",
+          "artists": [
+            "MELON",
+            "Dance Fruits Music"
+          ],
+          "streams": 9211132
+        },
+        {
+          "entityId": "23RoR84KodL5HWvUTneQ1w",
+          "title": "(It Goes Like) Nanana - Edit",
+          "artists": [
+            "Peggy Gou"
+          ],
+          "streams": 656348916
+        },
+        {
+          "entityId": "5lwvIh1NGDx4wsCTDMDtRO",
+          "title": "Another Love",
+          "artists": [
+            "MELON",
+            "Dance Fruits Music"
+          ],
+          "streams": 13412481
+        },
+        {
+          "entityId": "3H5PW5NXN6lOiRDlbGLX25",
+          "title": "Runaway (U & I)",
+          "artists": [
+            "MELON",
+            "Dance Fruits Music"
+          ],
+          "streams": 15204760
+        },
+        {
+          "entityId": "5w5QIumEdK72YrHkEXdTKa",
+          "title": "Don't You Worry Child",
+          "artists": [
+            "MELON",
+            "Dance Fruits Music"
+          ],
+          "streams": 10621143
+        },
+        {
+          "entityId": "06ekyEfviHPLgmI3NVMlbZ",
+          "title": "L'Amour Toujours",
+          "artists": [
+            "MELON",
+            "RobxDan",
+            "Dance Fruits Music"
+          ],
+          "streams": 9299044
+        },
+        {
+          "entityId": "4uUG5RXrOk84mYEfFvj3cK",
+          "title": "I'm Good (Blue)",
+          "artists": [
+            "David Guetta",
+            "Bebe Rexha"
+          ],
+          "streams": 2203161195
+        },
+        {
+          "entityId": "53dN5dvRarTOlebwo1G2BR",
+          "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+          "artists": [
+            "MELON",
+            "Dance Fruits Music"
+          ],
+          "streams": 8272784
+        },
+        {
+          "entityId": "4yKN43pgKLGsoGZWpHpW5A",
+          "title": "Better Off Alone",
+          "artists": [
+            "Dance Fruits Music"
+          ],
+          "streams": 51348762
+        },
+        {
+          "entityId": "0aMjR2rFm2DoRmQuXSfGOl",
+          "title": "POPSTAR",
+          "artists": [
+            "MELON",
+            "Steve Void",
+            "Dance Fruits Music"
+          ],
+          "streams": 38381552
+        },
+        {
+          "entityId": "29FPswTGZqwdtfBJrdi92K",
+          "title": "Tokyo Drift",
+          "artists": [
+            "MELON",
+            "Dance Fruits Music"
+          ],
+          "streams": 5357759
+        },
+        {
+          "entityId": "3zHZDl3HldA76rGBedhAJB",
+          "title": "Mr. Saxobeat",
+          "artists": [
+            "Dance Fruits Music",
+            "Steve Void",
+            "DMNDS"
+          ],
+          "streams": 35368039
+        },
+        {
+          "entityId": "22dUzMFttcR3uU17NcOAIv",
+          "title": "Desire (with Sam Smith)",
+          "artists": [
+            "Calvin Harris",
+            "Sam Smith"
+          ],
+          "streams": 331462627
+        },
+        {
+          "entityId": "5oLF9Sf2qYMNbtHHNosxWP",
+          "title": "Roses",
+          "artists": [
+            "MELON",
+            "Rezidential",
+            "Dance Fruits Music"
+          ],
+          "streams": 8499216
+        },
+        {
+          "entityId": "4f0o50Pf54koTerCQ2m1ZC",
+          "title": "Running Up That Hill (A Deal With God)",
+          "artists": [
+            "MELON",
+            "Ronko",
+            "Dance Fruits Music"
+          ],
+          "streams": 7533809
+        },
+        {
+          "entityId": "5YwtVa1VzqP3bl0hGrJYxz",
+          "title": "Bad Habits",
+          "artists": [
+            "MELON",
+            "Redwood"
+          ],
+          "streams": 1026710
+        },
+        {
+          "entityId": "5WyD2lZhEeTNg91oEF0TYK",
+          "title": "Blue (Da Ba Dee)",
+          "artists": [
+            "MELON",
+            "Steve Void",
+            "Dance Fruits Music"
+          ],
+          "streams": 61813562
+        },
+        {
+          "entityId": "21iXoRMgiWBBHr54R8wbyD",
+          "title": "Bad Memories",
+          "artists": [
+            "MELON",
+            "RobxDan"
+          ],
+          "streams": 1520326
+        },
+        {
+          "entityId": "3hmVBUCqgZWWAgrYcKriTE",
+          "title": "Levels",
+          "artists": [
+            "MELON",
+            "Dance Fruits Music"
+          ],
+          "streams": 4769367
+        }
+      ],
+      "totalStreams": "12.4B",
+      "url": "https://app.artist.tools/playlist/4EjIhZWbxJNNiHPwVh17mF",
+      "additionalInfo": {
+        "uniqueArtists": 26,
+        "latestTrack": "1y ago",
+        "extractionTimestamp": "2025-09-23T07:08:54.585Z",
         "extractionMethod": "success"
       }
     }
   ],
-  "generatedAt": "2025-09-23T06:59:32.805Z"
+  "generatedAt": "2025-09-23T07:05:51.818Z"
 }
