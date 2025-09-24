@@ -4,12 +4,12 @@
   "totalPlaylists": 1,
   "playlists": [
     {
-      "playlistName": "4EjIhZWbxJNNiHPwVh17mF",
-      "tracks": [],
+      "playlistName": "Unknown Playlist",
       "totalTracks": 0,
-      "totalStreams": "0",
+      "totalStreams": "",
+      "tracks": [],
       "url": "https://app.artist.tools/playlist/4EjIhZWbxJNNiHPwVh17mF"
     }
   ],
-  "generatedAt": "2025-09-24T15:46:47.278Z"
+  "generatedAt": "2025-09-24T16:06:16.613Z"
 }
