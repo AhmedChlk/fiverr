@@ -5,9 +5,6 @@
   "playlists": [
     {
       "playlistName": "Deep House - dance music to workout, game & party to by dance fruits",
-      "totalTracks": 136,
-      "uniqueArtists": 26,
-      "latestTrack": "1y ago",
       "tracks": [
         {
           "entityId": "59NraMJsLaMCVtwXTSia8i",
@@ -248,9 +245,10 @@
           "streams": 4770192
         }
       ],
+      "totalTracks": 0,
       "totalStreams": "N/A",
       "url": "https://app.artist.tools/playlist/4EjIhZWbxJNNiHPwVh17mF"
     }
   ],
-  "generatedAt": "2025-09-24T17:16:47.093Z"
+  "generatedAt": "2025-09-24T17:27:21.924Z"
 }
