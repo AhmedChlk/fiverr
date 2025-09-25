@@ -4,10 +4,12 @@
   "totalPlaylists": 1,
   "playlists": [
     {
-      "playlistName": "Deep House - dance music to workout, game & party to by dance fruits",
+      "playlistName": "Playlist 4EjIhZWbxJNNiHPwVh17mF",
+      "totalTracks": 0,
+      "totalStreams": "N/A",
       "tracks": [
         {
-          "entityId": "59NraMJsLaMCVtwXTSia8i",
+          "position": 2,
           "title": "Prada",
           "artists": [
             "cassö",
@@ -17,20 +19,17 @@
           "streams": 955516991
         },
         {
-          "entityId": "7vUROW0qSrg2HACYL3rglZ",
+          "position": 3,
           "title": "Calabria (feat. Fallen Roses, Lujavo & Lunis) - Steve Void Edit",
           "artists": [
             "Dance Fruits Music",
             "DMNDS",
-            "Lunis",
-            "Steve Void",
-            "Lujavo",
-            "Fallen Roses"
+            "Lunis"
           ],
           "streams": 15629018
         },
         {
-          "entityId": "1BXfDqPvs6SJbAcOEK40Z3",
+          "position": 4,
           "title": "The Rhythm of the Night",
           "artists": [
             "MELON",
@@ -40,7 +39,7 @@
           "streams": 12063170
         },
         {
-          "entityId": "5ZUIPLoTLJZrPQh2kFZEUM",
+          "position": 5,
           "title": "Addicted",
           "artists": [
             "Zerb",
@@ -50,7 +49,7 @@
           "streams": 354325689
         },
         {
-          "entityId": "4RkZWbpfkzXUyahUkR1Lyh",
+          "position": 6,
           "title": "Pon de Replay",
           "artists": [
             "MELON",
@@ -60,7 +59,7 @@
           "streams": 16098088
         },
         {
-          "entityId": "6JbvvGKwtgcjeOU810AS8w",
+          "position": 7,
           "title": "Thick Of It All",
           "artists": [
             "Alan Walker",
@@ -70,7 +69,7 @@
           "streams": 9152080
         },
         {
-          "entityId": "4rngjvFqdPeG4pMOI7SUGt",
+          "position": 8,
           "title": "Lay All Your Love On Me",
           "artists": [
             "MELON",
@@ -79,7 +78,7 @@
           "streams": 9221883
         },
         {
-          "entityId": "23RoR84KodL5HWvUTneQ1w",
+          "position": 9,
           "title": "(It Goes Like) Nanana - Edit",
           "artists": [
             "Peggy Gou"
@@ -87,168 +86,17 @@
           "streams": 656861479
         },
         {
-          "entityId": "5lwvIh1NGDx4wsCTDMDtRO",
+          "position": 10,
           "title": "Another Love",
           "artists": [
             "MELON",
             "Dance Fruits Music"
           ],
           "streams": 13416766
-        },
-        {
-          "entityId": "3H5PW5NXN6lOiRDlbGLX25",
-          "title": "Runaway (U & I)",
-          "artists": [
-            "MELON",
-            "Dance Fruits Music"
-          ],
-          "streams": 15209596
-        },
-        {
-          "entityId": "5w5QIumEdK72YrHkEXdTKa",
-          "title": "Don't You Worry Child",
-          "artists": [
-            "MELON",
-            "Dance Fruits Music"
-          ],
-          "streams": 10624805
-        },
-        {
-          "entityId": "06ekyEfviHPLgmI3NVMlbZ",
-          "title": "L'Amour Toujours",
-          "artists": [
-            "MELON",
-            "RobxDan",
-            "Dance Fruits Music"
-          ],
-          "streams": 9303250
-        },
-        {
-          "entityId": "4uUG5RXrOk84mYEfFvj3cK",
-          "title": "I'm Good (Blue)",
-          "artists": [
-            "David Guetta",
-            "Bebe Rexha"
-          ],
-          "streams": 2204782359
-        },
-        {
-          "entityId": "53dN5dvRarTOlebwo1G2BR",
-          "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-          "artists": [
-            "MELON",
-            "Dance Fruits Music"
-          ],
-          "streams": 8276061
-        },
-        {
-          "entityId": "4yKN43pgKLGsoGZWpHpW5A",
-          "title": "Better Off Alone",
-          "artists": [
-            "Dance Fruits Music"
-          ],
-          "streams": 51358791
-        },
-        {
-          "entityId": "0aMjR2rFm2DoRmQuXSfGOl",
-          "title": "POPSTAR",
-          "artists": [
-            "MELON",
-            "Steve Void",
-            "Dance Fruits Music"
-          ],
-          "streams": 38386110
-        },
-        {
-          "entityId": "29FPswTGZqwdtfBJrdi92K",
-          "title": "Tokyo Drift",
-          "artists": [
-            "MELON",
-            "Dance Fruits Music"
-          ],
-          "streams": 5359813
-        },
-        {
-          "entityId": "3zHZDl3HldA76rGBedhAJB",
-          "title": "Mr. Saxobeat",
-          "artists": [
-            "Dance Fruits Music",
-            "Steve Void",
-            "DMNDS"
-          ],
-          "streams": 35380478
-        },
-        {
-          "entityId": "22dUzMFttcR3uU17NcOAIv",
-          "title": "Desire (with Sam Smith)",
-          "artists": [
-            "Calvin Harris",
-            "Sam Smith"
-          ],
-          "streams": 331692345
-        },
-        {
-          "entityId": "5oLF9Sf2qYMNbtHHNosxWP",
-          "title": "Roses",
-          "artists": [
-            "MELON",
-            "Rezidential",
-            "Dance Fruits Music"
-          ],
-          "streams": 8501990
-        },
-        {
-          "entityId": "4f0o50Pf54koTerCQ2m1ZC",
-          "title": "Running Up That Hill (A Deal With God)",
-          "artists": [
-            "MELON",
-            "Ronko",
-            "Dance Fruits Music"
-          ],
-          "streams": 7536069
-        },
-        {
-          "entityId": "5YwtVa1VzqP3bl0hGrJYxz",
-          "title": "Bad Habits",
-          "artists": [
-            "MELON",
-            "Redwood"
-          ],
-          "streams": 1028568
-        },
-        {
-          "entityId": "5WyD2lZhEeTNg91oEF0TYK",
-          "title": "Blue (Da Ba Dee)",
-          "artists": [
-            "MELON",
-            "Steve Void",
-            "Dance Fruits Music"
-          ],
-          "streams": 61828617
-        },
-        {
-          "entityId": "21iXoRMgiWBBHr54R8wbyD",
-          "title": "Bad Memories",
-          "artists": [
-            "MELON",
-            "RobxDan"
-          ],
-          "streams": 1522549
-        },
-        {
-          "entityId": "3hmVBUCqgZWWAgrYcKriTE",
-          "title": "Levels",
-          "artists": [
-            "MELON",
-            "Dance Fruits Music"
-          ],
-          "streams": 4771045
         }
       ],
-      "totalTracks": 0,
-      "totalStreams": "N/A",
       "url": "https://app.artist.tools/playlist/4EjIhZWbxJNNiHPwVh17mF"
     }
   ],
-  "generatedAt": "2025-09-25T06:48:46.850Z"
+  "generatedAt": "2025-09-25T08:58:32.532Z"
 }
