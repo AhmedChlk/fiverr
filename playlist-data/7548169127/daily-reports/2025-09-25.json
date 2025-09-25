@@ -16,7 +16,7 @@
             "RAYE",
             "D-Block Europe"
           ],
-          "streams": 955516991
+          "streams": null
         },
         {
           "position": 2,
@@ -26,7 +26,7 @@
             "DMNDS",
             "Lunis"
           ],
-          "streams": 15629018
+          "streams": null
         },
         {
           "position": 3,
@@ -36,7 +36,7 @@
             "Rezidential",
             "Dance Fruits Music"
           ],
-          "streams": 12063170
+          "streams": null
         },
         {
           "position": 4,
@@ -46,7 +46,7 @@
             "The Chainsmokers",
             "Ink"
           ],
-          "streams": 354325689
+          "streams": null
         },
         {
           "position": 5,
@@ -56,7 +56,7 @@
             "Steve Void",
             "Dance Fruits Music"
           ],
-          "streams": 16098088
+          "streams": null
         },
         {
           "position": 6,
@@ -66,7 +66,7 @@
             "Joe Jonas",
             "Julia Michaels"
           ],
-          "streams": 9152080
+          "streams": null
         },
         {
           "position": 7,
@@ -75,7 +75,7 @@
             "MELON",
             "Dance Fruits Music"
           ],
-          "streams": 9221883
+          "streams": null
         },
         {
           "position": 8,
@@ -83,7 +83,7 @@
           "artists": [
             "Peggy Gou"
           ],
-          "streams": 656861479
+          "streams": null
         },
         {
           "position": 9,
@@ -92,7 +92,7 @@
             "MELON",
             "Dance Fruits Music"
           ],
-          "streams": 13416766
+          "streams": null
         },
         {
           "position": 10,
@@ -101,11 +101,11 @@
             "MELON",
             "Dance Fruits Music"
           ],
-          "streams": 15209596
+          "streams": null
         }
       ],
       "url": "https://app.artist.tools/playlist/4EjIhZWbxJNNiHPwVh17mF"
     }
   ],
-  "generatedAt": "2025-09-25T09:24:14.109Z"
+  "generatedAt": "2025-09-25T09:30:30.996Z"
 }
