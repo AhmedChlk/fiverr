@@ -1,0 +1,1032 @@
+{
+  "date": "2025-11-16",
+  "chatId": "5284444294",
+  "totalPlaylists": 1,
+  "playlists": [
+    {
+      "playlistName": "Harmonic Static",
+      "totalTracks": 125,
+      "uniqueArtists": 11,
+      "latestTrack": "2mo ago",
+      "tracks": [
+        {
+          "entityId": "7li4J51QU2UQBlyRuwkqaE",
+          "title": "Alleyway at 7pm",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 1
+        },
+        {
+          "entityId": "7MEmrc9Bknys5R1igDUla9",
+          "title": "We Forgot Sound",
+          "artists": [
+            "koori"
+          ],
+          "streams": 2
+        },
+        {
+          "entityId": "7chiDCuVUxASHnGU2nMoau",
+          "title": "Fade Me Out",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 3
+        },
+        {
+          "entityId": "6zPbnajBtwye2NLucTHw6N",
+          "title": "Chapters Without Voices",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 4
+        },
+        {
+          "entityId": "7Jv2uNXg2V8dv03n2isbff",
+          "title": "Buffering Emotions",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 5
+        },
+        {
+          "entityId": "1Uszjip44lvP8naglahFSy",
+          "title": "Hearts on Repeat",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 6
+        },
+        {
+          "entityId": "4xXIUD8XwDZVWVijmdKaQz",
+          "title": "Echoes Burn Slower",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 7
+        },
+        {
+          "entityId": "6mbKXJfVqDDCc2NCD9SKcp",
+          "title": "Whispers from Your Room",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 8
+        },
+        {
+          "entityId": "0XuPUD5yBeMXcPlgOWiCpv",
+          "title": "We Forgot the Melody",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 9
+        },
+        {
+          "entityId": "3N6jWdKaqChU4zVfD5KE8B",
+          "title": "She Left",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 10
+        },
+        {
+          "entityId": "7qZ8IBTdB23insTETM1jZk",
+          "title": "Waiting for Sunday",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 11
+        },
+        {
+          "entityId": "0Bj0rCbCsHquLNuuJY8lGw",
+          "title": "Ghosts Behind Windows",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 12
+        },
+        {
+          "entityId": "54p2mYoN8zf25LVB3Qo5rT",
+          "title": "3am in Loops",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 13
+        },
+        {
+          "entityId": "6DDuMXXpZDPS3CvcZAgZpL",
+          "title": "No Light Left",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 14
+        },
+        {
+          "entityId": "0NkdZiYrm6xbAcPoAO9HTA",
+          "title": "Lights Stayed on Too Long",
+          "artists": [
+            "Yonex"
+          ],
+          "streams": 15
+        },
+        {
+          "entityId": "4Ober3nDucTGrRKizUZCYv",
+          "title": "You Typed I Waited",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 16
+        },
+        {
+          "entityId": "6SQ9qBZrfFvc1vp8Xs2jEQ",
+          "title": "Wet Keys",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 17
+        },
+        {
+          "entityId": "5vytl2ihdoR0T8lEnMrQQI",
+          "title": "Warm Static",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 18
+        },
+        {
+          "entityId": "52AnJ1FufPVrRNa1AP7D4T",
+          "title": "Vanished Like Sleep",
+          "artists": [
+            "koori"
+          ],
+          "streams": 19
+        },
+        {
+          "entityId": "2heGzQUaAOwTrjaM1mkXRq",
+          "title": "Typing in Circles",
+          "artists": [
+            "koori"
+          ],
+          "streams": 20
+        },
+        {
+          "entityId": "2CSKRi4mqO06XBS61DobZh",
+          "title": "Sundown Echoes",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 21
+        },
+        {
+          "entityId": "4PQpoH7Kz2XXc26KbVo58K",
+          "title": "Stillness Turned Blue",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 22
+        },
+        {
+          "entityId": "5D5If3QdGIdVgxte2PpWHh",
+          "title": "Rain in Reverse",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 23
+        },
+        {
+          "entityId": "2bqKS1AXsFa9mBLemhwY2j",
+          "title": "Idle Dreamscape",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 24
+        },
+        {
+          "entityId": "1NiJRMUfJbLXpzNbVzrXeN",
+          "title": "Crash in C Major",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 25
+        },
+        {
+          "entityId": "6OTZhlcXkr95pWDZf4cWvd",
+          "title": "Bleeding Silence",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 26
+        },
+        {
+          "entityId": "4RO7ksSKaCRgsjBF6bx7d7",
+          "title": "We Talked in Fonts",
+          "artists": [
+            "Drezel"
+          ],
+          "streams": 27
+        },
+        {
+          "entityId": "5ra336SeXGx1N2M5J7ZX05",
+          "title": "Unread Feelings",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 28
+        },
+        {
+          "entityId": "1ChxmqMik8y3TH3Wjgyw5G",
+          "title": "Rain Talks in Loops",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 29
+        },
+        {
+          "entityId": "3SXuE62bakg5G7rMgG3uEA",
+          "title": "Just Missed You",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 30
+        },
+        {
+          "entityId": "5TS54jSihgwAdMArQeic6S",
+          "title": "When Code Felt Cold",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 31
+        },
+        {
+          "entityId": "0apAwnlNa2mkMaxj5o64Bo",
+          "title": "Unread by Morning",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 32
+        },
+        {
+          "entityId": "3Kjm6mjIcWVavT9DnQKenv",
+          "title": "That Call Never Came",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 33
+        },
+        {
+          "entityId": "3EsA6DpPDTHGvQDY34dZO6",
+          "title": "The Room Called Twice",
+          "artists": [
+            "Drezel"
+          ],
+          "streams": 34
+        },
+        {
+          "entityId": "2lnKLxftcogAom0Spk8RRz",
+          "title": "Offline in Seoul",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 35
+        },
+        {
+          "entityId": "7jZ20Z8yGz1yMoJ0EEEN4A",
+          "title": "Nothing Felt Loude",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 36
+        },
+        {
+          "entityId": "1Dt4SslERlYn7dcWPWLvhI",
+          "title": "Moonlight Didnt Ask",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 37
+        },
+        {
+          "entityId": "0ouBe7iPouycWaBgH7IB3F",
+          "title": "Hollow Drive",
+          "artists": [
+            "koori"
+          ],
+          "streams": 38
+        },
+        {
+          "entityId": "1i0J7i8hfxRSaWr84akF3O",
+          "title": "Clicking Memories",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 39
+        },
+        {
+          "entityId": "3eFho3ePASR0uS6Umn5CIq",
+          "title": "Bufferheart",
+          "artists": [
+            "koori"
+          ],
+          "streams": 40
+        },
+        {
+          "entityId": "59U4aD6iYotJRxpL70r2J3",
+          "title": "Wires Wrapped in Silence",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 41
+        },
+        {
+          "entityId": "2QWbHoPOfaOYvIN0LgnDEE",
+          "title": "Window Light Loop",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 42
+        },
+        {
+          "entityId": "7pXE02JKIroEdUxlBNp4Jp",
+          "title": "Time Slept First",
+          "artists": [
+            "Yonex"
+          ],
+          "streams": 43
+        },
+        {
+          "entityId": "5ML7GJaUuheCUs69a4R2gt",
+          "title": "Notes We Ignored",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 44
+        },
+        {
+          "entityId": "7quJLb9uKAfbkY0rjMFXqj",
+          "title": "Neverbooted",
+          "artists": [
+            "koori"
+          ],
+          "streams": 45
+        },
+        {
+          "entityId": "2S2S4KbUg6P6rRGjGyqaRh",
+          "title": "Midnight Notes Txt",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 46
+        },
+        {
+          "entityId": "29PlzXvwrhucN7A8Nh7iur",
+          "title": "Midnight Blur",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 47
+        },
+        {
+          "entityId": "6q1BjmJpc41U92eu14RqFO",
+          "title": "Last Password Reset",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 48
+        },
+        {
+          "entityId": "3yXjOl5ny7f01UEk65ExUP",
+          "title": "Home Without You",
+          "artists": [
+            "koori"
+          ],
+          "streams": 49
+        },
+        {
+          "entityId": "6wytO90awFjUWMQX36oshu",
+          "title": "Ghostloop",
+          "artists": [
+            "koori"
+          ],
+          "streams": 50
+        },
+        {
+          "entityId": "4xuJBGGb3K7nQweO4H4kG8",
+          "title": "Flicker Dreams",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 51
+        },
+        {
+          "entityId": "2HgDiPqXmyszMBkD2EOcwE",
+          "title": "Faint Replies Remain",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 52
+        },
+        {
+          "entityId": "3Q0QMjgSQY7wJvoWBcZHGj",
+          "title": "Fade Txt",
+          "artists": [
+            "koori"
+          ],
+          "streams": 53
+        },
+        {
+          "entityId": "11O0LnLKuNQObEhDSIcdN8",
+          "title": "Dreams Dont Reply",
+          "artists": [
+            "koori"
+          ],
+          "streams": 54
+        },
+        {
+          "entityId": "74ZvUazSrNdme9Gq8eh7Bo",
+          "title": "Cold Tea Mornings",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 55
+        },
+        {
+          "entityId": "7ypx7DDKH8X85SsxCjh9tB",
+          "title": "Blank Spaces Called",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 56
+        },
+        {
+          "entityId": "0u5lGaqNE9wYQAEtdOBAE8",
+          "title": "Yesterday Kept Typing",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 57
+        },
+        {
+          "entityId": "5IZbZJg0jCKXz6k1cafZ23",
+          "title": "Trains After Midnight",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 58
+        },
+        {
+          "entityId": "1JBEXB5skw0d2THSt05Nq4",
+          "title": "Sundays in Reverse",
+          "artists": [
+            "Yonex"
+          ],
+          "streams": 59
+        },
+        {
+          "entityId": "55xxcMI7ON0jpNgHA6kqSg",
+          "title": "Steps on Old Wood",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 60
+        },
+        {
+          "entityId": "1bnNM8PHSBuqQVRLi8GJC0",
+          "title": "Static Feels Warm",
+          "artists": [
+            "koori"
+          ],
+          "streams": 61
+        },
+        {
+          "entityId": "6ouFYlVdjnA4YbXZg2GQlP",
+          "title": "Reply Pending",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 62
+        },
+        {
+          "entityId": "7jkQfEvFCSx8CmsLWzCl7o",
+          "title": "Midnight Ram",
+          "artists": [
+            "koori"
+          ],
+          "streams": 63
+        },
+        {
+          "entityId": "4ahvJsdh0ZSYJlAiM7w5rM",
+          "title": "Letters in the Sink",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 64
+        },
+        {
+          "entityId": "2GVElclfJXgXscRKZwDLP6",
+          "title": "Falling Between Seconds",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 65
+        },
+        {
+          "entityId": "1fcLXZymyPhIbrEmZJaog5",
+          "title": "Blank Space Called Twice",
+          "artists": [
+            "Yonex"
+          ],
+          "streams": 66
+        },
+        {
+          "entityId": "6pmCWfnikxG8KMerZ8GoU1",
+          "title": "Until Tabs Close",
+          "artists": [
+            "koori"
+          ],
+          "streams": 67
+        },
+        {
+          "entityId": "2CKmZ1SNbig3GuQzf3jZg4",
+          "title": "Reverb in My Soul",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 68
+        },
+        {
+          "entityId": "2PipGqxFhrddz4s0UwVJ1B",
+          "title": "Replay Yesterday",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 69
+        },
+        {
+          "entityId": "6z40uirCn6nUIchLbT44Gv",
+          "title": "Offline Emotions Loaded",
+          "artists": [
+            "koori"
+          ],
+          "streams": 70
+        },
+        {
+          "entityId": "3k3N3uAc2HPNNs0pXHSS1k",
+          "title": "Notes Underwater",
+          "artists": [
+            "koori"
+          ],
+          "streams": 71
+        },
+        {
+          "entityId": "1OSKBc2Aq1sjuo9qAJKgsK",
+          "title": "No Signal Tonight",
+          "artists": [
+            "koori"
+          ],
+          "streams": 72
+        },
+        {
+          "entityId": "5jYEcyNha7K7fBfC2o82Rq",
+          "title": "Dreams Muted",
+          "artists": [
+            "koori"
+          ],
+          "streams": 73
+        },
+        {
+          "entityId": "4V9KRTHkJRQLR52PUT1muC",
+          "title": "Ctrl Alt Feel",
+          "artists": [
+            "koori"
+          ],
+          "streams": 74
+        },
+        {
+          "entityId": "2D1oD7MOfy79TN9UCMoHZB",
+          "title": "Backspace Love",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 75
+        },
+        {
+          "entityId": "2bMJC0t6X90bmdVBEJmDX6",
+          "title": "Zero Signal",
+          "artists": [
+            "koori"
+          ],
+          "streams": 76
+        },
+        {
+          "entityId": "6fQIMB9y3jI38jWR2yAh6F",
+          "title": "Your Name Was a Folder",
+          "artists": [
+            "Yonex"
+          ],
+          "streams": 77
+        },
+        {
+          "entityId": "5YF4tmpCRozCN7PN8txqFo",
+          "title": "She Left in Italics",
+          "artists": [
+            "Yonex"
+          ],
+          "streams": 78
+        },
+        {
+          "entityId": "6FtW5hIcItIcBj1DnT2Axn",
+          "title": "Looped Without Meaning",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 79
+        },
+        {
+          "entityId": "1t7tp1sHAxJ6GULaby3l9J",
+          "title": "Empty Street Lights",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 80
+        },
+        {
+          "entityId": "5o3l36UezI9Q5Lf5KWi48o",
+          "title": "The Window Stayed Open",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 81
+        },
+        {
+          "entityId": "1OON6kvdpkPhvXCku5LE2d",
+          "title": "When You Closed First",
+          "artists": [
+            "Drezel"
+          ],
+          "streams": 82
+        },
+        {
+          "entityId": "0BGn0LMQ9wYPxZbLRYZVzQ",
+          "title": "We Shared That Silence",
+          "artists": [
+            "Yonex"
+          ],
+          "streams": 83
+        },
+        {
+          "entityId": "6JYYgXXgldaTOuKXtIKY2h",
+          "title": "Voices Through",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 84
+        },
+        {
+          "entityId": "7vGZF01c70Uya6yyxf84gT",
+          "title": "Streetlights Dont Blink",
+          "artists": [
+            "Yonex"
+          ],
+          "streams": 85
+        },
+        {
+          "entityId": "0oZFw3hEqLcwT5ul5dJNg1",
+          "title": "Someone Left Typing",
+          "artists": [
+            "Drezel"
+          ],
+          "streams": 86
+        },
+        {
+          "entityId": "05bxBrcDykG7PpgcFEfN8y",
+          "title": "She Sang in Static",
+          "artists": [
+            "Drezel"
+          ],
+          "streams": 87
+        },
+        {
+          "entityId": "4t1W0bJbbKLmemITbqYzhc",
+          "title": "Shadows Under Syntax",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 88
+        },
+        {
+          "entityId": "0SeU2Uw48v7M6hpq9ds9Zd",
+          "title": "Pages Lost Forever",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 89
+        },
+        {
+          "entityId": "1zGD1bmHVNIOaA7WheLgAX",
+          "title": "I Forgot the Winter",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 90
+        },
+        {
+          "entityId": "3iO1F2XEHzTpezmUpPTnCy",
+          "title": "404 Breaths",
+          "artists": [
+            "koori"
+          ],
+          "streams": 91
+        },
+        {
+          "entityId": "0rf4lPlIZB30EMawwxzCgj",
+          "title": "You Skipped Again",
+          "artists": [
+            "koori"
+          ],
+          "streams": 92
+        },
+        {
+          "entityId": "6wvNdVIc7nPhWRX3VLfhNz",
+          "title": "Pages That Hummed",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 93
+        },
+        {
+          "entityId": "79ReJTchezQuAPUcNjPbD3",
+          "title": "No Sleep Protocol",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 94
+        },
+        {
+          "entityId": "1ZsdhgYF4nWWdEPqu68gCW",
+          "title": "Lost Tape Fragile",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 95
+        },
+        {
+          "entityId": "3UF0vxVLdy5KNu34cLVW6j",
+          "title": "Her Voice Stayed Back",
+          "artists": [
+            "Drezel"
+          ],
+          "streams": 96
+        },
+        {
+          "entityId": "2t1u71BV9vXTT7PDXiZtMg",
+          "title": "Half a Cigarette",
+          "artists": [
+            "Drezel"
+          ],
+          "streams": 97
+        },
+        {
+          "entityId": "4XCbAEFrhqHT1cCnYg7cjG",
+          "title": "Dust in the Keys",
+          "artists": [
+            "koori"
+          ],
+          "streams": 98
+        },
+        {
+          "entityId": "21ntBYXkl5Z3aYZB1hsfjW",
+          "title": "Curtains Breathe Slow",
+          "artists": [
+            "koori"
+          ],
+          "streams": 99
+        },
+        {
+          "entityId": "6RwGJCMj0qmEPcEYvY9vkf",
+          "title": "Bookmarks of You",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 100
+        },
+        {
+          "entityId": "453rWbWkGnh1C49pryWijL",
+          "title": "You Were Typing",
+          "artists": [
+            "Yonex"
+          ],
+          "streams": 101
+        },
+        {
+          "entityId": "03s2LV4tND1Lq9cTFW20cr",
+          "title": "Mornings Feel Outdated",
+          "artists": [
+            "Drezel"
+          ],
+          "streams": 102
+        },
+        {
+          "entityId": "4IZ56OTmV9NYsnlTeDiID6",
+          "title": "The Bus Did Not Stop",
+          "artists": [
+            "Yonex"
+          ],
+          "streams": 103
+        },
+        {
+          "entityId": "3BAvOkLjjXCe33PvEkcU1a",
+          "title": "Voicemails from Mars",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 104
+        },
+        {
+          "entityId": "60K48TEOFIwr8sRxiuqLEi",
+          "title": "Paper Hands Breathing",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 105
+        },
+        {
+          "entityId": "4Myu7ywetq2QHN5kbALlQa",
+          "title": "Never Said Goodbye",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 106
+        },
+        {
+          "entityId": "35DWsbP6tkWfxGr2x4Lg7d",
+          "title": "Hiss Memories",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 107
+        },
+        {
+          "entityId": "4Og2D736L8rGrGz4xAvU1x",
+          "title": "Phones Dont Apologize",
+          "artists": [
+            "Yonex"
+          ],
+          "streams": 108
+        },
+        {
+          "entityId": "2vMfXoxN5rmnLBHfgfvn0k",
+          "title": "Sleep Between Messages",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 109
+        },
+        {
+          "entityId": "1nr2tDEkVjqsmmMCh8OT9a",
+          "title": "She Forgot the Chorus",
+          "artists": [
+            "Yonex"
+          ],
+          "streams": 110
+        },
+        {
+          "entityId": "3CNtY6WPwIY8Y6jGaOWxGs",
+          "title": "I Slept Through August",
+          "artists": [
+            "Drezel"
+          ],
+          "streams": 111
+        },
+        {
+          "entityId": "7Ez9JxIy7Tz7GPoJ2U4KqW",
+          "title": "Dust in the Frame",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 112
+        },
+        {
+          "entityId": "1IasggkPnRdZrR5guxFvXw",
+          "title": "Dreams Left Untitled",
+          "artists": [
+            "Velkora"
+          ],
+          "streams": 113
+        },
+        {
+          "entityId": "2bOdSnWPx1hPqGhLzRJ55m",
+          "title": "Dreams Folded Twice",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 114
+        },
+        {
+          "entityId": "5mn7YUmkV9gptbofSHxN6m",
+          "title": "Cracked Reflections",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 115
+        },
+        {
+          "entityId": "3US0Wil9NbIVS9sS55dHjb",
+          "title": "Airplane Mode",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 116
+        },
+        {
+          "entityId": "1gNAgEhhppCdOqXHqK4MTf",
+          "title": "Your Silence Says All",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 117
+        },
+        {
+          "entityId": "6y1Ef4LdNp50bM8QeFuSMs",
+          "title": "Cloud Collapse",
+          "artists": [
+            "koori"
+          ],
+          "streams": 118
+        },
+        {
+          "entityId": "5rWlMOFEpsRrOAJBPJDLuq",
+          "title": "No More Blue Tabs",
+          "artists": [
+            "Drezel"
+          ],
+          "streams": 119
+        },
+        {
+          "entityId": "1atuyAl3keTp5f9FAbWDVr",
+          "title": "Whispers in Transit",
+          "artists": [
+            "Nokori"
+          ],
+          "streams": 120
+        },
+        {
+          "entityId": "7xYPkKnt497zg69x6TUO40",
+          "title": "I Heard Your Window",
+          "artists": [
+            "Yonex"
+          ],
+          "streams": 121
+        },
+        {
+          "entityId": "2bpfqvm6yFFzSBkf3kaCxh",
+          "title": "I Forgot My Voice",
+          "artists": [
+            "Yonex"
+          ],
+          "streams": 122
+        },
+        {
+          "entityId": "5lpxv3UiKpBmLvCzbA161E",
+          "title": "Cold Floors and Messages",
+          "artists": [
+            "Drezel"
+          ],
+          "streams": 123
+        },
+        {
+          "entityId": "3DvwqTg125wNh3IueS1WX7",
+          "title": "Pixel Dust Rain",
+          "artists": [
+            "Veloxa"
+          ],
+          "streams": 124
+        },
+        {
+          "entityId": "4i5DsCCKxtAs7eGT33uoVA",
+          "title": "Echoes on Repeat",
+          "artists": [
+            "koori"
+          ],
+          "streams": 125
+        }
+      ],
+      "totalStreams": "1.4M",
+      "url": "https://app.artist.tools/playlist/1XhO1t5dr3OIi75cPuUVXd",
+      "additionalInfo": {
+        "avgPopularity": "20.1",
+        "popularityRange": "0 - 24",
+        "uniqueArtists": 11,
+        "latestTrack": "2mo ago",
+        "totalCalculatedStreams": 7875,
+        "extractionTimestamp": "2025-11-16T20:47:42.078Z",
+        "extractionMethod": "success",
+        "stats": {
+          "trackCountNumeric": 125,
+          "totalStreamsNumeric": 1400000
+        },
+        "latestTrackDate": "2025-09-16"
+      }
+    }
+  ],
+  "generatedAt": "2025-11-16T20:46:55.438Z"
+}
