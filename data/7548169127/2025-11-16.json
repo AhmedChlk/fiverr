@@ -436,14 +436,15 @@
         "uniqueArtists": 38,
         "latestTrack": "2d ago",
         "totalCalculatedStreams": 1275,
-        "extractionTimestamp": "2025-11-16T19:59:01.411Z",
+        "extractionTimestamp": "2025-11-16T20:03:36.833Z",
         "extractionMethod": "success",
         "stats": {
           "trackCountNumeric": 50,
           "totalStreamsNumeric": 28700000000
-        }
+        },
+        "latestTrackDate": "2025-11-14"
       }
     }
   ],
-  "generatedAt": "2025-11-16T19:58:14.628Z"
+  "generatedAt": "2025-11-16T20:02:50.039Z"
 }
