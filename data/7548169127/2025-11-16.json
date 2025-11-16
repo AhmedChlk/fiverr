@@ -436,7 +436,7 @@
         "uniqueArtists": 38,
         "latestTrack": "2d ago",
         "totalCalculatedStreams": 1275,
-        "extractionTimestamp": "2025-11-16T20:07:43.160Z",
+        "extractionTimestamp": "2025-11-16T20:31:38.776Z",
         "extractionMethod": "success",
         "stats": {
           "trackCountNumeric": 50,
@@ -1096,7 +1096,7 @@
         "uniqueArtists": 63,
         "latestTrack": "3y ago",
         "totalCalculatedStreams": 3160,
-        "extractionTimestamp": "2025-11-16T20:07:43.161Z",
+        "extractionTimestamp": "2025-11-16T20:31:38.777Z",
         "extractionMethod": "success",
         "stats": {
           "trackCountNumeric": 79,
@@ -1106,5 +1106,5 @@
       }
     }
   ],
-  "generatedAt": "2025-11-16T20:06:55.036Z"
+  "generatedAt": "2025-11-16T20:30:50.888Z"
 }
