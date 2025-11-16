@@ -1,0 +1,5 @@
+# Playlist URLs for Chat ID: 7548169127
+# Add one URL per line
+# Format: https://app.artist.tools/playlist/ID
+
+https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M
