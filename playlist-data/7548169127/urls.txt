@@ -3,3 +3,4 @@
 # Format: https://app.artist.tools/playlist/ID
 
 https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M
+https://open.spotify.com/playlist/0gXySJoSIk43WxHYelFeK9
