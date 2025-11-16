@@ -4,24 +4,446 @@
   "totalPlaylists": 1,
   "playlists": [
     {
-      "entityId": "37i9dQZF1DXcBWIGoYBM5M",
-      "title": "Today’s Top Hits",
-      "tracks": [],
-      "totalTracks": 0,
-      "totalStreams": 0,
+      "playlistName": "Today’s Top Hits",
+      "totalTracks": 50,
+      "uniqueArtists": 38,
+      "latestTrack": "2d ago",
+      "tracks": [
+        {
+          "entityId": "0bxPRWprUVpQK0UFcddkrA",
+          "title": "Folded",
+          "artists": [
+            "Kehlani"
+          ],
+          "streams": 1
+        },
+        {
+          "entityId": "1qbmS6ep2hbBRaEZFpn7BX",
+          "title": "Man I Need",
+          "artists": [
+            "Olivia Dean"
+          ],
+          "streams": 2
+        },
+        {
+          "entityId": "5BZsQlgw21vDOAjoqkNgKb",
+          "title": "DAISIES",
+          "artists": [
+            "Justin Bieber"
+          ],
+          "streams": 3
+        },
+        {
+          "entityId": "0FTmksd2dxiE5e3rWyJXs6",
+          "title": "back to friends",
+          "artists": [
+            "sombr"
+          ],
+          "streams": 4
+        },
+        {
+          "entityId": "3yWuTOYDztXjZxdE2cIRUa",
+          "title": "Opalite",
+          "artists": [
+            "Taylor Swift"
+          ],
+          "streams": 5
+        },
+        {
+          "entityId": "0je57Uq5eTk1wrPzn9sWbl",
+          "title": "When Did You Get Hot?",
+          "artists": [
+            "Sabrina Carpenter"
+          ],
+          "streams": 6
+        },
+        {
+          "entityId": "55lijDD6OAjLFFUHU9tcDm",
+          "title": "WHERE IS MY HUSBAND!",
+          "artists": [
+            "RAYE"
+          ],
+          "streams": 7
+        },
+        {
+          "entityId": "4WFgvKVfEhb3IUAFGrutTR",
+          "title": "Love Me Not",
+          "artists": [
+            "Ravyn Lenae"
+          ],
+          "streams": 8
+        },
+        {
+          "entityId": "1CPZ5BxNNd0n0nF4Orb9JS",
+          "title": "Golden",
+          "artists": [
+            "HUNTR/X",
+            "EJAE",
+            "AUDREY NUNA",
+            "REI AMI",
+            "KPop Demon Hunters Cast"
+          ],
+          "streams": 9
+        },
+        {
+          "entityId": "1xOqGUkyxGQRdCvGpvWKmL",
+          "title": "Gabriela",
+          "artists": [
+            "KATSEYE"
+          ],
+          "streams": 10
+        },
+        {
+          "entityId": "31TXxq8gfgYyrYClnYY48m",
+          "title": "The Fate of Ophelia",
+          "artists": [
+            "Taylor Swift"
+          ],
+          "streams": 11
+        },
+        {
+          "entityId": "6qqrTXSdwiJaq8SO0X2lSe",
+          "title": "Ordinary",
+          "artists": [
+            "Alex Warren"
+          ],
+          "streams": 12
+        },
+        {
+          "entityId": "42VUCXerQ5qTr4Qp6PhKo4",
+          "title": "Tears",
+          "artists": [
+            "Sabrina Carpenter"
+          ],
+          "streams": 13
+        },
+        {
+          "entityId": "3A02hWQ2ebOFDWSbAMNnpw",
+          "title": "bittersweet",
+          "artists": [
+            "Madison Beer"
+          ],
+          "streams": 14
+        },
+        {
+          "entityId": "709ZIqPHyFOpx2QdjmeWAM",
+          "title": "Dracula",
+          "artists": [
+            "Tame Impala"
+          ],
+          "streams": 15
+        },
+        {
+          "entityId": "6MrLkXsMmHaYt680fhJUAq",
+          "title": "12 to 12",
+          "artists": [
+            "sombr"
+          ],
+          "streams": 16
+        },
+        {
+          "entityId": "6sGIMrtIzQjdzNndVxe397",
+          "title": "So Easy (To Fall In Love)",
+          "artists": [
+            "Olivia Dean"
+          ],
+          "streams": 17
+        },
+        {
+          "entityId": "04a44cx2PJthIbN2aLMXhl",
+          "title": "TIT FOR TAT",
+          "artists": [
+            "Tate McRae"
+          ],
+          "streams": 18
+        },
+        {
+          "entityId": "3cZajhyr8LmtPfHZ9296tj",
+          "title": "No Broke Boys",
+          "artists": [
+            "Disco Lines",
+            "Tinashe"
+          ],
+          "streams": 19
+        },
+        {
+          "entityId": "0DTSnA1bcVI5niJzoyBPyZ",
+          "title": "Past Won't Leave My Bed",
+          "artists": [
+            "Joji"
+          ],
+          "streams": 20
+        },
+        {
+          "entityId": "3NFs3XUduzBfvc5Bx1gmzh",
+          "title": "The Dead Dance",
+          "artists": [
+            "Lady Gaga"
+          ],
+          "streams": 21
+        },
+        {
+          "entityId": "221eHga9f9Ne4f8D7WVgPT",
+          "title": "Mystical Magical",
+          "artists": [
+            "Benson Boone"
+          ],
+          "streams": 22
+        },
+        {
+          "entityId": "2SsY5k7UWFqgye3PUMG3Oq",
+          "title": "The Subway",
+          "artists": [
+            "Chappell Roan"
+          ],
+          "streams": 23
+        },
+        {
+          "entityId": "4oVO4fGNRRvEn0CRuFO4qv",
+          "title": "La Perla",
+          "artists": [
+            "ROSALÍA",
+            "Yahritza Y Su Esencia"
+          ],
+          "streams": 24
+        },
+        {
+          "entityId": "42UBPzRMh5yyz0EDPr6fr1",
+          "title": "Manchild",
+          "artists": [
+            "Sabrina Carpenter"
+          ],
+          "streams": 25
+        },
+        {
+          "entityId": "2yWlGEgEfPot0lv3OAjuG3",
+          "title": "Just Keep Watching (From F1® The Movie)",
+          "artists": [
+            "Tate McRae",
+            "F1 The Album"
+          ],
+          "streams": 26
+        },
+        {
+          "entityId": "2plbrEY59IikOBgBGLjaoe",
+          "title": "Die With A Smile",
+          "artists": [
+            "Lady Gaga",
+            "Bruno Mars"
+          ],
+          "streams": 27
+        },
+        {
+          "entityId": "4VxTzYm00mg82MuoT35Ja7",
+          "title": "CHANEL",
+          "artists": [
+            "Tyla"
+          ],
+          "streams": 28
+        },
+        {
+          "entityId": "3oTuTpF1F3A7rEC6RKsMRz",
+          "title": "Raindance (feat. Tems)",
+          "artists": [
+            "Dave",
+            "Tems"
+          ],
+          "streams": 29
+        },
+        {
+          "entityId": "3SKH53SPQbEnZR4cJPVaz2",
+          "title": "Messy",
+          "artists": [
+            "Lola Young"
+          ],
+          "streams": 30
+        },
+        {
+          "entityId": "5H1sKFMzDeMtXwND3V6hRY",
+          "title": "JUMP",
+          "artists": [
+            "BLACKPINK"
+          ],
+          "streams": 31
+        },
+        {
+          "entityId": "0FIDCNYYjNvPVimz5icugS",
+          "title": "Timeless (feat Playboi Carti)",
+          "artists": [
+            "The Weeknd",
+            "Playboi Carti"
+          ],
+          "streams": 32
+        },
+        {
+          "entityId": "3obedb2fnHaTE8bPlr9TNK",
+          "title": "Chains of Love",
+          "artists": [
+            "Charli xcx"
+          ],
+          "streams": 33
+        },
+        {
+          "entityId": "6xV7Be6XEvkSnighmh2Tzj",
+          "title": "Sugar On My Tongue",
+          "artists": [
+            "Tyler, The Creator"
+          ],
+          "streams": 34
+        },
+        {
+          "entityId": "4WFfPxJv1KRekG6mxn837K",
+          "title": "EYES CLOSED (with ZAYN)",
+          "artists": [
+            "JISOO",
+            "ZAYN"
+          ],
+          "streams": 35
+        },
+        {
+          "entityId": "6dOtVTDdiauQNBQEDOtlAB",
+          "title": "BIRDS OF A FEATHER",
+          "artists": [
+            "Billie Eilish"
+          ],
+          "streams": 36
+        },
+        {
+          "entityId": "04emojnbYkrRmv5qtJcgVP",
+          "title": "What I Want (feat. Tate McRae)",
+          "artists": [
+            "Morgan Wallen",
+            "Tate McRae"
+          ],
+          "streams": 37
+        },
+        {
+          "entityId": "1jgTiNob5cVyXeJ3WgX5bL",
+          "title": "Elizabeth Taylor",
+          "artists": [
+            "Taylor Swift"
+          ],
+          "streams": 38
+        },
+        {
+          "entityId": "29iva9idM6rFCPUlu7Rhxl",
+          "title": "YUKON",
+          "artists": [
+            "Justin Bieber"
+          ],
+          "streams": 39
+        },
+        {
+          "entityId": "45J4avUb9Ni0bnETYaYFVJ",
+          "title": "luther (with sza)",
+          "artists": [
+            "Kendrick Lamar",
+            "SZA"
+          ],
+          "streams": 40
+        },
+        {
+          "entityId": "2uPMsTEKx79gJ8rB3AcT0v",
+          "title": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+          "artists": [
+            "Bizarrap",
+            "Daddy Yankee"
+          ],
+          "streams": 41
+        },
+        {
+          "entityId": "3nHuKdFJZm78CoeBnDcFKe",
+          "title": "Bad Dreams",
+          "artists": [
+            "Teddy Swims"
+          ],
+          "streams": 42
+        },
+        {
+          "entityId": "7ne4VBA60CxGM75vw0EYad",
+          "title": "That’s So True",
+          "artists": [
+            "Gracie Abrams"
+          ],
+          "streams": 43
+        },
+        {
+          "entityId": "0InIeZW4P6VO7dUGRM4AKH",
+          "title": "Sienna",
+          "artists": [
+            "The Marías"
+          ],
+          "streams": 44
+        },
+        {
+          "entityId": "1k2pQc5i348DCHwbn5KTdc",
+          "title": "Pink Pony Club",
+          "artists": [
+            "Chappell Roan"
+          ],
+          "streams": 45
+        },
+        {
+          "entityId": "6V4ntlX6608rd3Ec5SpVhj",
+          "title": "Berghain",
+          "artists": [
+            "ROSALÍA",
+            "Björk",
+            "Yves Tumor"
+          ],
+          "streams": 46
+        },
+        {
+          "entityId": "0fK7ie6XwGxQTIkpFoWkd1",
+          "title": "like JENNIE",
+          "artists": [
+            "JENNIE"
+          ],
+          "streams": 47
+        },
+        {
+          "entityId": "6xndk83L8mJQ4sKdGfP4ie",
+          "title": "SPAGHETTI (English ver.)",
+          "artists": [
+            "LE SSERAFIM",
+            "j-hope"
+          ],
+          "streams": 48
+        },
+        {
+          "entityId": "3QaPy1KgI7nu9FJEQUgn6h",
+          "title": "WILDFLOWER",
+          "artists": [
+            "Billie Eilish"
+          ],
+          "streams": 49
+        },
+        {
+          "entityId": "5vNRhkKd0yEAg8suGBpjeY",
+          "title": "APT.",
+          "artists": [
+            "ROSÉ",
+            "Bruno Mars"
+          ],
+          "streams": 50
+        }
+      ],
+      "totalStreams": "28.7B",
       "url": "https://app.artist.tools/playlist/37i9dQZF1DXcBWIGoYBM5M",
       "additionalInfo": {
-        "latestTrack": null,
-        "totalCalculatedStreams": 0,
-        "extractionTimestamp": "2025-11-16T19:56:25.112Z",
-        "extractionMethod": "minimal",
+        "avgPopularity": "87.8",
+        "popularityRange": "0 - 99",
+        "uniqueArtists": 38,
+        "latestTrack": "2d ago",
+        "totalCalculatedStreams": 1275,
+        "extractionTimestamp": "2025-11-16T19:59:01.411Z",
+        "extractionMethod": "success",
         "stats": {
-          "trackCountNumeric": 0,
-          "totalStreamsNumeric": 0
-        },
-        "latestTrackDate": null
+          "trackCountNumeric": 50,
+          "totalStreamsNumeric": 28700000000
+        }
       }
     }
   ],
-  "generatedAt": "2025-11-16T19:56:19.246Z"
+  "generatedAt": "2025-11-16T19:58:14.628Z"
 }
