@@ -1,0 +1,5 @@
+# Playlist URLs for Chat ID: 5284444294
+# Add one URL per line
+# Format: https://app.artist.tools/playlist/ID
+
+https://open.spotify.com/playlist/1XhO1t5dr3OIi75cPuUVXd?si=8aKSvcRKTPO4xFsJudVXvg&pi=fkaWy4VTRoCUv
