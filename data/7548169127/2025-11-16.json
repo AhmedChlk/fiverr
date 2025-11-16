@@ -1,7 +1,7 @@
 {
   "date": "2025-11-16",
   "chatId": "7548169127",
-  "totalPlaylists": 1,
+  "totalPlaylists": 2,
   "playlists": [
     {
       "playlistName": "Today’s Top Hits",
@@ -436,7 +436,7 @@
         "uniqueArtists": 38,
         "latestTrack": "2d ago",
         "totalCalculatedStreams": 1275,
-        "extractionTimestamp": "2025-11-16T20:03:36.833Z",
+        "extractionTimestamp": "2025-11-16T20:07:43.160Z",
         "extractionMethod": "success",
         "stats": {
           "trackCountNumeric": 50,
@@ -444,7 +444,667 @@
         },
         "latestTrackDate": "2025-11-14"
       }
+    },
+    {
+      "playlistName": "Futurama",
+      "totalTracks": 79,
+      "uniqueArtists": 63,
+      "latestTrack": "3y ago",
+      "tracks": [
+        {
+          "entityId": "6Lp427N88qjO6tIhTngQyt",
+          "title": "Futurama Main Theme - From \"Futurama\"/TV Version",
+          "artists": [
+            "Christopher Tyng"
+          ],
+          "streams": 1
+        },
+        {
+          "entityId": "7MDGp4UEjsMxCnASVy8J7O",
+          "title": "Futurama Main Theme - From \"Futurama\"/C. Tyng Extended Version",
+          "artists": [
+            "Christopher Tyng"
+          ],
+          "streams": 2
+        },
+        {
+          "entityId": "0A4PZuepTcIQVvA5m7R0M1",
+          "title": "Don't You (Forget About Me) - Remastered",
+          "artists": [
+            "Simple Minds"
+          ],
+          "streams": 3
+        },
+        {
+          "entityId": "5fpizYGbi5IQoEraj6FP0R",
+          "title": "Intergalactic - Remastered 2009",
+          "artists": [
+            "Beastie Boys"
+          ],
+          "streams": 4
+        },
+        {
+          "entityId": "6pxxFcKy0rmlKhXOfGaboJ",
+          "title": "30 Century Man",
+          "artists": [
+            "The Jigsaw Seen"
+          ],
+          "streams": 5
+        },
+        {
+          "entityId": "08umsLYbiDrteah4EZyXT4",
+          "title": "30 Century Man - Abbey Road Remaster",
+          "artists": [
+            "The Jigsaw Seen"
+          ],
+          "streams": 6
+        },
+        {
+          "entityId": "1NpPL94lQjP0D9QpxanU4C",
+          "title": "30 Century Man - Instrumental Version",
+          "artists": [
+            "The Jigsaw Seen"
+          ],
+          "streams": 7
+        },
+        {
+          "entityId": "0fQ9YHMzHRwa47N8th4wPY",
+          "title": "30 Century Man - Futurama Version",
+          "artists": [
+            "The Jigsaw Seen"
+          ],
+          "streams": 8
+        },
+        {
+          "entityId": "452JCKFrxiYStbn04smP8o",
+          "title": "30 Century Man",
+          "artists": [
+            "Scott Walker"
+          ],
+          "streams": 9
+        },
+        {
+          "entityId": "4RDpsuQe1PVYHKcRPbDdNE",
+          "title": "In the Year 2525 (Exordium & Terminus)",
+          "artists": [
+            "Zager & Evans"
+          ],
+          "streams": 10
+        },
+        {
+          "entityId": "06b4k4HJvewdoNzKh2GNY7",
+          "title": "Rock & Roll Pest Control",
+          "artists": [
+            "The Presidents Of The United States Of America"
+          ],
+          "streams": 11
+        },
+        {
+          "entityId": "06TY7FCbeT7Lu39oZ0IEsN",
+          "title": "Tom Sawyer",
+          "artists": [
+            "Rush"
+          ],
+          "streams": 12
+        },
+        {
+          "entityId": "0KxTWgl64TNOQXiGFJYc6t",
+          "title": "Conga!",
+          "artists": [
+            "Miami Sound Machine"
+          ],
+          "streams": 13
+        },
+        {
+          "entityId": "4RvWPyQ5RL0ao9LPZeSouE",
+          "title": "Everybody Wants To Rule The World",
+          "artists": [
+            "Tears For Fears"
+          ],
+          "streams": 14
+        },
+        {
+          "entityId": "3MkhfGI1air9O4XJ5FWrlo",
+          "title": "She's A Lady",
+          "artists": [
+            "Tom Jones"
+          ],
+          "streams": 15
+        },
+        {
+          "entityId": "7vJnM5FUcOV3xAKJHSSUWj",
+          "title": "I'm Alright - Theme from \"Caddyshack\"",
+          "artists": [
+            "Kenny Loggins"
+          ],
+          "streams": 16
+        },
+        {
+          "entityId": "6FRwDxXsvSasw0y2eDArsz",
+          "title": "Sunshine Of Your Love",
+          "artists": [
+            "Cream"
+          ],
+          "streams": 17
+        },
+        {
+          "entityId": "4v52HuhZqVV0eNpP6vzH5I",
+          "title": "Don't Worry Be Happy",
+          "artists": [
+            "Bobby McFerrin"
+          ],
+          "streams": 18
+        },
+        {
+          "entityId": "4BZE0PNKwu5vF6fHNVTgjO",
+          "title": "Bend Me, Shape Me (Rerecorded)",
+          "artists": [
+            "The American Breed"
+          ],
+          "streams": 19
+        },
+        {
+          "entityId": "65aJGPXs2i8orwZK9z8x4r",
+          "title": "Just Can't Get Enough",
+          "artists": [
+            "Depeche Mode"
+          ],
+          "streams": 20
+        },
+        {
+          "entityId": "4AdPPRnaL7sBicnBZABtHm",
+          "title": "Yummy, Yummy, Yummy",
+          "artists": [
+            "The Royal Guardsmen"
+          ],
+          "streams": 21
+        },
+        {
+          "entityId": "7GhIk7Il098yCjg4BQjzvb",
+          "title": "Never Gonna Give You Up",
+          "artists": [
+            "Rick Astley"
+          ],
+          "streams": 22
+        },
+        {
+          "entityId": "05wIrZSwuaVWhcv5FfqeH0",
+          "title": "Walking On Sunshine",
+          "artists": [
+            "Katrina & The Waves"
+          ],
+          "streams": 23
+        },
+        {
+          "entityId": "1tJtx09XQnxaynZLOaTNfZ",
+          "title": "Car Wash",
+          "artists": [
+            "Rose Royce"
+          ],
+          "streams": 24
+        },
+        {
+          "entityId": "28yT0sZlkqStSByo1j58J4",
+          "title": "Baby Got Back",
+          "artists": [
+            "Sir Mix-A-Lot"
+          ],
+          "streams": 25
+        },
+        {
+          "entityId": "1k4lRM7YrGxJerGbf9VzXk",
+          "title": "Super Disco Breakin' - Remastered 2009",
+          "artists": [
+            "Beastie Boys"
+          ],
+          "streams": 26
+        },
+        {
+          "entityId": "4vpeKl0vMGdAXpZiQB2Dtd",
+          "title": "White Rabbit",
+          "artists": [
+            "Jefferson Airplane"
+          ],
+          "streams": 27
+        },
+        {
+          "entityId": "2gTRWaatQIg05HmJqAcB7p",
+          "title": "James Bond Theme",
+          "artists": [
+            "John Barry Orchestra"
+          ],
+          "streams": 28
+        },
+        {
+          "entityId": "5dIKF6uVJ206hj0pO0gg0I",
+          "title": "Funkytown",
+          "artists": [
+            "Lipps Inc."
+          ],
+          "streams": 29
+        },
+        {
+          "entityId": "5prTs2HAw2G4idHZyeFp8o",
+          "title": "Total Eclipse of the Heart",
+          "artists": [
+            "Bonnie Tyler"
+          ],
+          "streams": 30
+        },
+        {
+          "entityId": "6dGWq08LXuIw6T2oUeHECh",
+          "title": "Convoy",
+          "artists": [
+            "C.W. McCall"
+          ],
+          "streams": 31
+        },
+        {
+          "entityId": "52HAHV1j93s5B8GoTNI7DJ",
+          "title": "Oh, Pretty Woman",
+          "artists": [
+            "Roy Orbison"
+          ],
+          "streams": 32
+        },
+        {
+          "entityId": "7mQertZHtd37UQ2uJs0Uct",
+          "title": "Where It's At",
+          "artists": [
+            "Beck"
+          ],
+          "streams": 33
+        },
+        {
+          "entityId": "53uzBMME2GSfpUVtOtiLvA",
+          "title": "Scarborough Fair / Canticle",
+          "artists": [
+            "Simon & Garfunkel"
+          ],
+          "streams": 34
+        },
+        {
+          "entityId": "1ELY3KTgI83N1k0xXqabMe",
+          "title": "Sexx Laws",
+          "artists": [
+            "Beck"
+          ],
+          "streams": 35
+        },
+        {
+          "entityId": "2j4k2Q2SGEijVhTv8pycv2",
+          "title": "Love Machine",
+          "artists": [
+            "The Miracles",
+            "Billy Griffin"
+          ],
+          "streams": 36
+        },
+        {
+          "entityId": "3DjP8yo25Uk89IkGdLNWbH",
+          "title": "Conga",
+          "artists": [
+            "Gloria Estefan",
+            "Miami Sound Machine"
+          ],
+          "streams": 37
+        },
+        {
+          "entityId": "3QZ7uX97s82HFYSmQUAN1D",
+          "title": "Tom Sawyer",
+          "artists": [
+            "Rush"
+          ],
+          "streams": 38
+        },
+        {
+          "entityId": "4ePP9So5xRzspjLFVVbj90",
+          "title": "Two Princes",
+          "artists": [
+            "Spin Doctors"
+          ],
+          "streams": 39
+        },
+        {
+          "entityId": "4DA95pyBe6QORPGvTEuMWQ",
+          "title": "TV Party",
+          "artists": [
+            "Black Flag"
+          ],
+          "streams": 40
+        },
+        {
+          "entityId": "7FkCscwzYo9l3mzYIH8Odh",
+          "title": "The Hustle - Super Hustle Mix",
+          "artists": [
+            "Van McCoy"
+          ],
+          "streams": 41
+        },
+        {
+          "entityId": "4msPRe3NEDVL6dsBcE7AhL",
+          "title": "Get Down Tonight",
+          "artists": [
+            "KC & The Sunshine Band"
+          ],
+          "streams": 42
+        },
+        {
+          "entityId": "2xfdvnGUikUfZZipwVw8nO",
+          "title": "I'm Alright (Theme from \"Caddyshack\")",
+          "artists": [
+            "Kenny Loggins"
+          ],
+          "streams": 43
+        },
+        {
+          "entityId": "4eHbdreAnSOrDDsFfc4Fpm",
+          "title": "I Will Always Love You",
+          "artists": [
+            "Whitney Houston"
+          ],
+          "streams": 44
+        },
+        {
+          "entityId": "1JiIsKoCvipT7swHm9YjBo",
+          "title": "Bolero",
+          "artists": [
+            "Maurice Ravel"
+          ],
+          "streams": 45
+        },
+        {
+          "entityId": "66MwdlxiFMZ8TJGLEJnS7x",
+          "title": "Clampdown - Remastered",
+          "artists": [
+            "The Clash"
+          ],
+          "streams": 46
+        },
+        {
+          "entityId": "3tnsJQVbeIFKJwQKVdEOCO",
+          "title": "Na Na Hey Hey Kiss Him Goodbye",
+          "artists": [
+            "Steam"
+          ],
+          "streams": 47
+        },
+        {
+          "entityId": "0fQ9YHMzHRwa47N8th4wPY",
+          "title": "30 Century Man - Futurama Version",
+          "artists": [
+            "The Jigsaw Seen"
+          ],
+          "streams": 48
+        },
+        {
+          "entityId": "5mdDzJBkQ7Gz7ePDCB397w",
+          "title": "Little Bird, Little Bird",
+          "artists": [
+            "Elizabeth Mitchell"
+          ],
+          "streams": 49
+        },
+        {
+          "entityId": "6aNEc1HCjIL8JdXNVHa40y",
+          "title": "The Boogie That Be",
+          "artists": [
+            "Black Eyed Peas"
+          ],
+          "streams": 50
+        },
+        {
+          "entityId": "4oxqiNsFxFEJzUf8P5nJmc",
+          "title": "Beautiful World",
+          "artists": [
+            "DEVO"
+          ],
+          "streams": 51
+        },
+        {
+          "entityId": "5QiLMbkYocbcJeAc5QP948",
+          "title": "Bend It",
+          "artists": [
+            "Dave Dee, Dozy, Beaky, Mick & Tich"
+          ],
+          "streams": 52
+        },
+        {
+          "entityId": "06b4k4HJvewdoNzKh2GNY7",
+          "title": "Rock & Roll Pest Control",
+          "artists": [
+            "The Presidents Of The United States Of America"
+          ],
+          "streams": 53
+        },
+        {
+          "entityId": "18i53LcCmtCepTNSV2mwZD",
+          "title": "Eggman",
+          "artists": [
+            "Eli Wolfe"
+          ],
+          "streams": 54
+        },
+        {
+          "entityId": "2vEQ9zBiwbAVXzS2SOxodY",
+          "title": "Nothing's Gonna Stop Us Now",
+          "artists": [
+            "Starship"
+          ],
+          "streams": 55
+        },
+        {
+          "entityId": "4gVTozEmzwAUXpwj3jEetX",
+          "title": "Highway Star",
+          "artists": [
+            "Deep Purple"
+          ],
+          "streams": 56
+        },
+        {
+          "entityId": "7JYEJ9wK0Hy5XlLR8KOzbI",
+          "title": "Manchild",
+          "artists": [
+            "Eels"
+          ],
+          "streams": 57
+        },
+        {
+          "entityId": "3LdLGNKCW0dNr14JQlZPQt",
+          "title": "In the Year 2525",
+          "artists": [
+            "Zager & Evans"
+          ],
+          "streams": 58
+        },
+        {
+          "entityId": "1AhFuvrwd046885IiDvM3I",
+          "title": "Rocket Ship",
+          "artists": [
+            "K. McCarty"
+          ],
+          "streams": 59
+        },
+        {
+          "entityId": "5FTEbWlmgnWRE7cyhhJ3RL",
+          "title": "I Will Wait Forever",
+          "artists": [
+            "Chris Dupre"
+          ],
+          "streams": 60
+        },
+        {
+          "entityId": "4npO5XRkDPcrZHUCjtO2tt",
+          "title": "Shut up and Love Me",
+          "artists": [
+            "The Dead Exs"
+          ],
+          "streams": 61
+        },
+        {
+          "entityId": "20MBLB1TCm3tQK3XZlHXTK",
+          "title": "Incense And Peppermints",
+          "artists": [
+            "Strawberry Alarm Clock"
+          ],
+          "streams": 62
+        },
+        {
+          "entityId": "4QkvD53COA5qLA7rQ1Pa7D",
+          "title": "Nobody But Me",
+          "artists": [
+            "The Human Beinz"
+          ],
+          "streams": 63
+        },
+        {
+          "entityId": "6uudeEvl6t5WrFgobojt3D",
+          "title": "Wipe Out",
+          "artists": [
+            "The Surfaris"
+          ],
+          "streams": 64
+        },
+        {
+          "entityId": "3qiyyUfYe7CRYLucrPmulD",
+          "title": "Baba O'Riley",
+          "artists": [
+            "The Who"
+          ],
+          "streams": 65
+        },
+        {
+          "entityId": "34x6hEJgGAOQvmlMql5Ige",
+          "title": "Danger Zone - From \"Top Gun\" Original Soundtrack",
+          "artists": [
+            "Kenny Loggins"
+          ],
+          "streams": 66
+        },
+        {
+          "entityId": "11IzgLRXV7Cgek3tEgGgjw",
+          "title": "Under Pressure - Remastered 2011",
+          "artists": [
+            "Queen",
+            "David Bowie"
+          ],
+          "streams": 67
+        },
+        {
+          "entityId": "0BB9eUBBaaX6GALSYNcEp7",
+          "title": "You Spin Me Round (Like a Record)",
+          "artists": [
+            "Dead Or Alive"
+          ],
+          "streams": 68
+        },
+        {
+          "entityId": "57JVGBtBLCfHw2muk5416J",
+          "title": "Another One Bites The Dust - Remastered 2011",
+          "artists": [
+            "Queen"
+          ],
+          "streams": 69
+        },
+        {
+          "entityId": "66FSV5dLK5sNLZ00IfHxfD",
+          "title": "Bad Moon Rising",
+          "artists": [
+            "Creedence Clearwater Revival"
+          ],
+          "streams": 70
+        },
+        {
+          "entityId": "2PzU4IB8Dr6mxV3lHuaG34",
+          "title": "(I Can't Get No) Satisfaction - Mono",
+          "artists": [
+            "The Rolling Stones"
+          ],
+          "streams": 71
+        },
+        {
+          "entityId": "1b7LMtXCXGc2EwOIplI35z",
+          "title": "Stuck In The Middle With You",
+          "artists": [
+            "Stealers Wheel"
+          ],
+          "streams": 72
+        },
+        {
+          "entityId": "7woZGXjtaYwuvSoU1zToB3",
+          "title": "Free Fallin'",
+          "artists": [
+            "Tom Petty"
+          ],
+          "streams": 73
+        },
+        {
+          "entityId": "3gdewACMIVMEWVbyb8O9sY",
+          "title": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+          "artists": [
+            "Elton John"
+          ],
+          "streams": 74
+        },
+        {
+          "entityId": "7FwBtcecmlpc1sLySPXeGE",
+          "title": "Dancing In the Dark",
+          "artists": [
+            "Bruce Springsteen"
+          ],
+          "streams": 75
+        },
+        {
+          "entityId": "6W2VbtvMrDXm5vYeB7amkO",
+          "title": "Footloose",
+          "artists": [
+            "Kenny Loggins"
+          ],
+          "streams": 76
+        },
+        {
+          "entityId": "7xjOvKT2SXk6DAyNGSMPXh",
+          "title": "Spirit In The Sky",
+          "artists": [
+            "Norman Greenbaum",
+            "George Fenton"
+          ],
+          "streams": 77
+        },
+        {
+          "entityId": "6bQarJw4UcuEEu5RdOC6no",
+          "title": "The Song Is Over",
+          "artists": [
+            "The Who"
+          ],
+          "streams": 78
+        },
+        {
+          "entityId": "5UVsbUV0Kh033cqsZ5sLQi",
+          "title": "In the Year 2525 (Exordium & Terminus)",
+          "artists": [
+            "Zager & Evans"
+          ],
+          "streams": 79
+        }
+      ],
+      "totalStreams": "28.9B",
+      "url": "https://app.artist.tools/playlist/0gXySJoSIk43WxHYelFeK9",
+      "additionalInfo": {
+        "avgPopularity": "33.1",
+        "popularityRange": "0 - 87",
+        "uniqueArtists": 63,
+        "latestTrack": "3y ago",
+        "totalCalculatedStreams": 3160,
+        "extractionTimestamp": "2025-11-16T20:07:43.161Z",
+        "extractionMethod": "success",
+        "stats": {
+          "trackCountNumeric": 79,
+          "totalStreamsNumeric": 28900000000
+        },
+        "latestTrackDate": "2022-11-16"
+      }
     }
   ],
-  "generatedAt": "2025-11-16T20:02:50.039Z"
+  "generatedAt": "2025-11-16T20:06:55.036Z"
 }
