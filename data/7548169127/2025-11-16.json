@@ -6,8 +6,6 @@
     {
       "entityId": "37i9dQZF1DXcBWIGoYBM5M",
       "title": "Today’s Top Hits",
-      "artists": [],
-      "streams": 0,
       "tracks": [],
       "totalTracks": 0,
       "totalStreams": 0,
@@ -15,7 +13,7 @@
       "additionalInfo": {
         "latestTrack": null,
         "totalCalculatedStreams": 0,
-        "extractionTimestamp": "2025-11-16T19:51:21.455Z",
+        "extractionTimestamp": "2025-11-16T19:56:25.112Z",
         "extractionMethod": "minimal",
         "stats": {
           "trackCountNumeric": 0,
@@ -25,5 +23,5 @@
       }
     }
   ],
-  "generatedAt": "2025-11-16T19:51:08.574Z"
+  "generatedAt": "2025-11-16T19:56:19.246Z"
 }
